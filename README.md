@@ -17,8 +17,8 @@ It is Point Of Sales made by Python and Kivy Technology
 ### Build for Android
 > buildozer android debug deploy run logcat
 
-### Developer
-### Build Technique
+## Developer
+### Developing Technique
 This applications use kivymd module/package which is built in already inside kivymd to create project and add view/screen. see this documentations [https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/create_project/index.html]
 
 to add view for new screen you can use this command :
