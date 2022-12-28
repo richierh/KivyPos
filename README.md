@@ -20,7 +20,7 @@ It is Point Of Sales made by Python and Kivy Technology
 ### Help us to contribute in such :
 #### 1. Contributor for Developer
 #### 2. Backer / Donations
-I would love to have a cup of coffee from you guys :-)
-<img src="/assets/images/BSI.png" width='250'>
+I would love to have a cup of coffee from you guys :-) \n
+<br><img src="/assets/images/BSI.png" width='250'></br>
 BSI (Bank Syariah Indonesia) an Richie Rahmat Hidayat 
 Account Bank No 1041478396
