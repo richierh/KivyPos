@@ -37,7 +37,7 @@ For more details ,you can check here
 
 
 # Need Support
-### Help us to contribute by becoming one of below :
+### Help us to contribute by becoming one of what we have provide below :
 #### 1. Contributor for Developer
 Of course, we always need developers to boosting the development of this application. Take this chance to improving yourself as a profesional
 
