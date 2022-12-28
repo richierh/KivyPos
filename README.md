@@ -23,5 +23,5 @@ It is Point Of Sales made by Python and Kivy Technology
 I would love to have a cup of coffee from you guys :-) 
 <br><img src="/assets/images/BSI.png" width='250'></br>
 BSI (Bank Syariah Indonesia) 
-<br>Richie Rahmat Hidayat
-Account Bank No 1041478396</br>
+<br>Account Bank No 1041478396</br>
+<br>Richie Rahmat Hidayat</br>
