@@ -94,6 +94,13 @@ from kivymd.uix.screenmanager import MDScreenManager
 
 from View.screens import screens
 
+# from kivy.utils import platform
+
+# if platform == "android":
+#     from android.permissions import request_permissions, Permission 
+#     request_permissions([Permission.INTERNET,\
+#         Permission.READ_EXTERNAL_STORAGE, Permission.WRITE_EXTERNAL_STORAGE])
+
 
 class Pos(MDApp):
     def __init__(self, **kwargs):
