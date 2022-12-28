@@ -4,6 +4,7 @@ It is Point Of Sales made by Python and Kivy Technology
 
 ### Instalation
 - github clone https://github.com/richierh/KivyPos#poskivy
+- source ./venv/bin/activate 
 - pip install -r requirements.txt
 - pip install -r requirements2.txt
 - search file main.py in the top level directory
