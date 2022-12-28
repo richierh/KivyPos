@@ -1,1 +1,0 @@
-__all__=["main_screen","login_screen","register_screen","navigation_main","main_menu"]

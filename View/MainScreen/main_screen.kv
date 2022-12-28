@@ -1,0 +1,74 @@
+<MainScreenView>
+    id:loginscreen
+    name:'main screen'
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: "images/background_login.png"
+    MDBoxLayout:
+        pos_hint:{'center_x':.5,'center_y':.5}
+        orientation:'vertical'
+        size_hint:1,1
+        orientation:'vertical'
+        MDBoxLayout:
+            size_hint:1,1
+            orientation: 'vertical'
+            Image:
+                source:"images/mesinkasir.png"
+                pos_hint:{'center_x':.5,'center_y':.5}
+                size_hint:.15,.15
+                allow_stretch: True
+        MDLabel:
+            size_hint:1,None
+            text:'Selamat Datang di Software Kasir'
+            halign:'center'
+            height:50
+        MDTextField:
+            pos_hint:{'center_x':.5,'center_y':1}
+            size_hint:.5,None
+            color_mode: 'custom'
+            hint_text: "Username/Phone"
+            mode: "rectangle"
+            hint_text_color:colors['Purple']['200']
+            text_color:colors['Purple']['200']
+            fill_color:colors['Purple']['200']
+            line_color_focus: colors['Purple']['200']
+            line_color_normal:colors['Purple']['200']
+            normal_color:colors['Purple']['200']
+            # line_color_normal:32/255, 123/255, 160/255, 1
+            # line_color_focus: 32/255, 123/255, 160/255, 1
+
+        MDTextField:
+            pos_hint:{'center_x':.5,'center_y':1}
+            size_hint:.5,None
+            color_mode: 'custom'
+            hint_text: "Password"
+            mode: "rectangle"
+            # line_color_normal:32/255, 123/255, 160/255, 1
+            line_color_normal:colors['Purple']['200']
+            line_color_focus: colors['Purple']['200']
+            # line_color_focus: 32/255, 123/255, 160/255, 1
+
+        MDBoxLayout:
+            orientation:'vertical'      
+            size_hint:1,1 
+            MDBoxLayout:
+                orientation:'horizontal'
+                size_hint:.5,1
+                pos_hint:{'center_x':.5,'center_y':.5}
+                spacing :20
+                MDFillRoundFlatButton:
+                    pos_hint: {'center_x': .5, 'center_y': .8}
+                    text: "Login"
+                    md_bg_color:colors['Purple']['200']
+                    # md_bg_color: 32/255, 123/255, 160/255, 1
+                    size_hint:.5,None
+                    on_release:root.login()
+                MDFillRoundFlatButton:
+                    text: "Sign Up"
+                    pos_hint: {'center_x': .5, 'center_y': .8}
+                    md_bg_color:colors['Purple']['200']
+                    # md_bg_color: 32/255, 123/255, 160/255, 1
+                    size_hint:.5,None
+                    on_release: root.signup()

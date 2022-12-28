@@ -1,0 +1,349 @@
+<MainmenuScreenView>
+    drawerlist:root.drawerlist
+    id:navigationmain
+    nav_drawer:nav_drawer
+    MDBoxLayout:
+        orientation:'vertical'
+        MDTopAppBar:
+            # pallete:'Red'
+            md_bg_color: colors['Purple']['500']
+            # pallete:'red'
+            # color.pallete:'red'
+            id:navigationtoolbar
+            title: "Menu Utama"
+            elevation: 3
+            # left_action_items: [['menu', lambda x: nav_drawer.toggle_nav_drawer()]]
+            left_action_items: [['menu', lambda x: nav_drawer.set_state("open")]]
+        MDNavigationLayout:
+            x: navigationtoolbar.height
+            size_hint_y: 1.0 - navigationtoolbar.height/root.height
+            ScreenManager:
+                id :screenmanager
+                PosKasir:
+                    drawerlist:root.drawerlist
+                    id:poskasir
+            MDNavigationDrawer:
+                id:nav_drawer
+                ContentNavigationDrawer:
+                    navigationmain:navigationmain
+                    id:navigationcontent
+
+<PosKasir>:
+    id:poskasir
+    MDBoxLayout:
+        orientation: 'vertical' 
+        size_hint:1,1
+        MDCarousel:
+            size_hint:1,.4
+            MDGridLayout:
+                size_hint:1,1
+                rows:2
+                cols:2
+                spacing:10
+                padding: [10,10,10,10]
+                MDCard:
+                    elevation:3
+                    size_hint: 1, 1
+                    # size: "200dp", "100dp"
+                    MDRelativeLayout:
+                        MDIconButton:
+                            icon: "dots-vertical"
+                            pos_hint: {"top": 1, "right": 1}
+                        CustomIconButton:
+                            size_hint:.8,.7
+                        MDLabel:
+                            font_size:'14sp'
+                            id: label
+                            text: "Event"
+                            adaptive_size: True
+                            color: "grey"
+                            pos: "12dp", "12dp"
+                            bold: True
+                MDCard:
+                    elevation:3
+                    size_hint: 1, 1
+                    # size: "200dp", "100dp"
+                    MDRelativeLayout:
+                        MDIconButton:
+                            icon: "dots-vertical"
+                            pos_hint: {"top": 1, "right": 1}
+                        CustomIconButton:
+                            size_hint:.8,.7
+                        MDLabel:
+                            font_size:'14sp'
+                            id: label
+                            text: "Promo"
+                            adaptive_size: True
+                            color: "grey"
+                            pos: "12dp", "12dp"
+                            bold: True
+                MDCard:
+                    elevation:3
+                    size_hint: 1, 1
+                    # size: "200dp", "100dp"
+                    MDRelativeLayout:
+                        MDIconButton:
+                            icon: "dots-vertical"
+                            pos_hint: {"top": 1, "right": 1}
+                        CustomIconButton:
+                            size_hint:.8,.7
+                        MDLabel:
+                            font_size:'14sp'
+                            id: label
+                            text: "Peringatan"
+                            adaptive_size: True
+                            color: "grey"
+                            pos: "12dp", "12dp"
+                            bold: True
+                MDCard:
+                    elevation:3
+                    size_hint: 1, 1
+                    # size: "200dp", "100dp"
+                    MDRelativeLayout:
+                        MDIconButton:
+                            icon: "dots-vertical"
+                            pos_hint: {"top": 1, "right": 1}
+                        CustomIconButton:
+                            size_hint:.8,.7
+                            id:custombuttonlainlain
+                        MDLabel:
+                            font_size:'14sp'
+                            id: label
+                            text: "Lain-lain"
+                            adaptive_size: True
+                            color: "grey"
+                            pos: "12dp", "12dp"
+                            bold: True
+
+        MDGridLayout:
+            cols:4
+            rows:4
+            size_hint:1,.6
+            spacing:10
+            padding: ('10dp', '10dp', '10dp', '10dp')
+            CustomIconButton:
+                size_hint:1,1 
+                text:'POS'
+                md_bg_color: colors['Purple']['100']
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'cash-register'
+                    # icon_color: app.theme_cls.primary_palette('Purple')
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+            CustomIconButton:
+                size_hint:1,1 
+                text:'POS'
+                md_bg_color: colors['Purple']['100']
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'basket-minus'
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+            CustomIconButton:
+                md_bg_color: colors['Purple']['100']
+                size_hint:1,1 
+                text:'POS'
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'basket-plus'
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+            CustomIconButton:
+                md_bg_color: colors['Purple']['100']
+                size_hint:1,1 
+                text:'POS'
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'safe'
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+            MDLabel:
+                size_hint:1,None
+                height:25
+                text:'Kasir'
+                font_size:'12sp'
+                halign:'center'
+            MDLabel:
+                size_hint:1,None
+                height:25
+                text:'Bayar'
+                font_size:'12sp'
+                halign:'center'
+            MDLabel:
+                height:25
+                size_hint:1,None
+                text:'Beli'
+                font_size:'12sp'
+                halign:'center'
+            MDLabel:
+                height:25
+                size_hint:1,None
+                text:'Kas'
+                font_size:'12sp'
+                halign:'center'
+
+            CustomIconButton:
+                md_bg_color: colors['Purple']['100']
+                size_hint:1,1 
+                text:'POS'
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'cupboard-outline'
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+
+                # Image:
+                #     source:""
+            CustomIconButton:
+                md_bg_color: colors['Purple']['100']
+                size_hint:1,1 
+                text:'POS'
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'cash-multiple'
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+            CustomIconButton:
+                md_bg_color: colors['Purple']['100']
+                size_hint:1,1 
+                text:'POS'
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'account-group'
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+            CustomIconButton:
+                md_bg_color: colors['Purple']['100']
+                size_hint:1,1
+                text:'POS'
+                # icon:'hammer-screwdriver'
+                on_release:self.push()
+                MDIconButton:
+                    size_hint:.5,1
+                    icon_size:'48'
+                    icon:'hammer-screwdriver'
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+                # Image:
+                #     size_hint:1,1
+                    # source:"assets/images/sample.png"
+
+            MDLabel:
+                size_hint:1,None
+                height:25
+                font_size:'12sp'
+                text:'Ketersediaan'
+                halign:'center'
+            MDLabel:
+                size_hint:1,None
+                height:25
+                text:'Hutang Piutang'
+                font_size:'12sp'
+                halign:'center'
+            MDLabel:
+                height:25
+                font_size:'12sp'
+                size_hint:1,None
+                text:'Daftar Pelanggan'
+                font_size:'12sp'
+                halign:'center'
+            MDLabel:
+                height:25
+                size_hint:1,None
+                text:'Pengaturan'
+                font_size:'12sp'
+                halign:'center'
+
+<CustomIconButton>:
+    source:root.source
+    id:customiconbutton
+
+<ItemDrawer>:
+    theme_text_color: "Custom"
+    on_release: self.parent.set_color_item(self)
+
+    IconLeftWidget:
+        id: icon
+        icon: root.icon
+        theme_text_color: "Custom"
+        text_color: root.text_color
+
+<ContentNavigationDrawer>:
+    navigationmain:root.navigationmain
+    id:navigationcontent
+    orientation: "vertical"
+    padding: "8dp"
+    spacing: "8dp"
+
+    AnchorLayout:
+        anchor_x: "left"
+        size_hint_y: None
+        height: avatar.height
+
+        Image:
+            id: avatar
+            size_hint: None, None
+            size: "40dp", "40dp"
+            source: "images/avatar.png"
+
+    MDLabel:
+        text: "Richie Rahmat Hidayat"
+        font_style: "Button"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    MDLabel:
+        text: "richie130283@gmail.com"
+        font_style: "Caption"
+        size_hint_y: None
+        height: self.texture_size[1]
+
+    ScrollView:
+
+        id:scrollview
+        name:'scroll_view'
+        DrawerList:
+            navigationmain:root.navigationmain
+    #         screenmanager:root.screenmanager
+    #         nav_drawer:root.nav_drawer
+    #         navigationtoolbar:root.navigationtoolbar
+    #         mainscreen:root.mainscreen
+
+
+
+<DrawerList>:
+    id:drawerlist
+    mainscreen:root.mainscreen
+    navigationmain:root.navigationmain
+    # nav_drawer:nav_drawer
+    id: md_list
+#     name:'drawer_list'
+    OneLineIconListItem:
+        md_list:md_list
+        text:'Cash Register'
+        # on_release:root.penjualan() 
+        IconLeftWidget:
+            icon:'slot-machine'
+  
+    OneLineIconListItem:
+        text:'Produk Tambah'
+        # on_release:root.product() 
+
+        IconLeftWidget:
+            icon:'bag-suitcase'
+
+    OneLineIconListItem:
+        text:'Pengaturan'
+        IconLeftWidget:
+            icon:'tools'
+
+    OneLineIconListItem:
+        text:'Logout'
+        on_release:root.logout()
+        IconLeftWidget:
+            icon:'logout'
+    OneLineIconListItem:
+        text:'Exit'
+        on_release:root.exit()
+        IconLeftWidget:
+            icon:'exit-to-app'
