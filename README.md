@@ -20,7 +20,8 @@ It is Point Of Sales made by Python and Kivy Technology
 
 ## Developer
 ### HotReload Support
-This app has hotreload support , so don't you missed the benefit of it. Just type in the terminal or any IDE you like the command below: 
+This app has hotreload support , so don't you missed the benefit of it. Hotreload gives you easiness to edit your code especially on UI side / (kv/py) files with live demo. 
+How to use it? Run your program / app by just type in the terminal or any IDE you like the command below: 
 > DEBUG=1 python hotreload.py
 ### Developing Technique
 This applications use kivymd module/package which is built in already inside kivymd to create project and add view/screen. see this documentations [https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/create_project/index.html]
