@@ -27,7 +27,8 @@ How to use it? Run your program / app by just type in the terminal or any IDE yo
 This applications use kivymd module/package which is built in already inside kivymd to create project and add view/screen. see this documentations [https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/create_project/index.html]
 
 to add view for new screen you can use this command in root directory:
->python -m kivymd.tools.patterns.add_view MVC '.' NameScreen
+
+> python -m kivymd.tools.patterns.add_view MVC '.' NameScreen
 
 Please remember to always use the word 'Screen' in the last word of the screen name (NameScreen).
 For more details ,you can check here 
