@@ -22,11 +22,11 @@ It is Point Of Sales made by Python and Kivy Technology
 ### Developing Technique
 This applications use kivymd module/package which is built in already inside kivymd to create project and add view/screen. see this documentations [https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/create_project/index.html]
 
-to add view for new screen you can use this command :
+to add view for new screen you can use this command in root directory:
 >python -m kivymd.tools.patterns.add_view MVC '.' NameScreen
 
 Please remember to always use the word 'Screen' in the last word of the screen name (NameScreen).
-Check more details here 
+For more details ,you can check here 
 
 [https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/add_view/]
 
