@@ -31,10 +31,12 @@ Check more details here
 
 
 # Need Support
-### Help us to contribute in such :
+### Help us to contribute by becoming one of below :
 #### 1. Contributor for Developer
+Of course, we always need developers to boosting the development of this application. Take this chance to improving yourself as a profesional
+
 #### 2. Backer / Donations
-I would love to have a cup of coffee from you guys :-) 
+I would love to have a cup of coffee from you guys :-) . Save this project for the development continuity
 <br><img src="/assets/images/BSI.png" width='250'></br>
 BSI (Bank Syariah Indonesia) 
 Account Bank No 1041478396
