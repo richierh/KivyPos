@@ -1,14 +1,6 @@
 # PosKivy
 It is Point Of Sales made by Python and Kivy Technology
 
-### Build Technique
-This applications use kivymd module to create project and add view. see this documentations [https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/create_project/index.html]
-
-to add view for new screen you can use 
->python -m kivymd.tools.patterns.add_view MVC '.' NameScreen
-remember for always use Screen in the last word of the screen name (NameScreen)
-Please check more details here 
-[https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/add_view/]
 
 ### Instalation
 - github clone https://github.com/richierh/KivyPos#poskivy
@@ -24,6 +16,19 @@ Please check more details here
 
 ### Build for Android
 > buildozer android debug deploy run logcat
+
+### Developer
+### Build Technique
+This applications use kivymd module/package which is built in already inside kivymd to create project and add view/screen. see this documentations [https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/create_project/index.html]
+
+to add view for new screen you can use this command :
+>python -m kivymd.tools.patterns.add_view MVC '.' NameScreen
+
+Please remember to always use the word 'Screen' in the last word of the screen name (NameScreen).
+Check more details here 
+
+[https://kivymd.readthedocs.io/en/1.1.1/api/kivymd/tools/patterns/add_view/]
+
 
 # Need Support
 ### Help us to contribute in such :
