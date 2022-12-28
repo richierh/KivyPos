@@ -24,4 +24,4 @@ I would love to have a cup of coffee from you guys :-)
 <br><img src="/assets/images/BSI.png" width='250'></br>
 BSI (Bank Syariah Indonesia) 
 <br>Account Bank No 1041478396</br>
-<br>Richie Rahmat Hidayat</br>
+Richie Rahmat Hidayat
