@@ -50,7 +50,7 @@ Richie Rahmat Hidayat
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
  <!-- Identify your business so that you can collect the payments. -->
- <input type="hidden" name="business" value="donations@kcparkfriends.org">
+ <input type="hidden" name="business" value="richie130283@gmail.com">
  <!-- Specify details about the contribution -->
  <input type="hidden" name="no_recurring" value="0">
  <input type="hidden" name="item_name" value="Friends of the Park">
