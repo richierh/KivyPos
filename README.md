@@ -48,21 +48,7 @@ BSI (Bank Syariah Indonesia)
 Account Bank No 1041478396
 Richie Rahmat Hidayat
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/gluonITDevelopment)
+Or use Paypal :
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/gluonITDevelopment?country.x=ID&locale.x=en_US)
 
-<!-- 
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
- <!-- Identify your business so that you can collect the payments. -->
- <input type="hidden" name="business" value="richie130283@gmail.com">
- <!-- Specify details about the contribution -->
- <input type="hidden" name="no_recurring" value="0">
- <input type="hidden" name="item_name" value="Friends of the Park">
- <input type="hidden" name="item_number" value="Fall Cleanup Campaign">
- <input type="hidden" name="currency_code" value="USD">
- <!-- Display the payment button. -->
- <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
- <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
-</form>
- -->
-
+https://paypal.me/gluonITDevelopment?country.x=ID&locale.x=en_US
