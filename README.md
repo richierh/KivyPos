@@ -48,9 +48,8 @@ BSI (Bank Syariah Indonesia)
 Account Bank No 1041478396
 Richie Rahmat Hidayat
 
-Paypal account  ![paypal.me/gluonITDevelopment] 
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4)
+Paypal account  [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)][paypal.me/gluonITDevelopment] 
+<!-- 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
  <!-- Identify your business so that you can collect the payments. -->
@@ -63,4 +62,4 @@ Paypal account  ![paypal.me/gluonITDevelopment]
  <!-- Display the payment button. -->
  <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate">
  <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
-</form>
+</form> -->
