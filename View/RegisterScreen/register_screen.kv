@@ -15,21 +15,25 @@
             spacing:10
             orientation: 'vertical' 
             MDTextFieldRect:
+                id:username
                 hint_text:'username'
                 pos_hint: {'center_x': .5 ,'center_y': .5}
                 size_hint: .5, None
                 height: "30dp"  
             MDTextFieldRect:
+                id:password
                 hint_text:'password'
                 pos_hint: {'center_x': .5 ,'center_y': .5}
                 size_hint: .5, None
                 height: "30dp"  
             MDTextFieldRect:
+                id:fullname
                 hint_text:'full name'
                 pos_hint: {'center_x': .5 ,'center_y': .5}
                 size_hint: .5, None
                 height: "30dp"  
             MDTextFieldRect:
+                id:address
                 hint_text:'address'
                 pos_hint: {'center_x': .5 ,'center_y': .5}
                 size_hint: .5, None
@@ -45,6 +49,7 @@
                     pos_hint: {'center_x':1 , 'center_y': .5}
                     text:"Setuju"
                     md_bg_color:colors['Purple']['300']
+                    on_release: root.registration_proceed(username,password,fullname,address)
             
             MDLabel:
                 text: "atau"

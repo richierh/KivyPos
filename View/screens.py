@@ -9,15 +9,21 @@ from Model.poskasir_screen import PoskasirScreenModel
 from Controller.poskasir_screen import PoskasirScreenController
 from Model.main_screen import MainScreenModel
 from Controller.main_screen import MainScreenController
+from Model.inventory_screen import InventoryScreenModel
+from Controller.inventory_screen import InventoryScreenController
+from Model.productlist_screen import ProductlistScreenModel
+from Controller.productlist_screen import ProductlistScreenController
+from Model.maintain_screen import MaintainScreenModel
+from Controller.maintain_screen import MaintainScreenController
+from Model.addproduct_screen import AddproductScreenModel
+from Controller.addproduct_screen import AddproductScreenController
+from Model.deleteproduct_screen import DeleteproductScreenModel
+from Controller.deleteproduct_screen import DeleteproductScreenController
 
 screens = {
-    'main screen': {
-        'model': MainScreenModel,
-        'controller': MainScreenController,
-    },
-    'mainmenu screen': {
-        'model': MainmenuScreenModel,
-        'controller': MainmenuScreenController,
+    'inventory screen': {
+        'model': InventoryScreenModel,
+        'controller': InventoryScreenController,
     },
     'register screen': {
         'model': RegisterScreenModel,
@@ -27,5 +33,28 @@ screens = {
         'model': PoskasirScreenModel,
         'controller': PoskasirScreenController,
     },
-
+    'deleteproduct screen': {
+        'model': DeleteproductScreenModel,
+        'controller': DeleteproductScreenController,
+    },
+    'main screen': {
+        'model': MainScreenModel,
+        'controller': MainScreenController,
+    },
+    'maintain screen': {
+        'model': MaintainScreenModel,
+        'controller': MaintainScreenController,
+    },
+    'mainmenu screen': {
+        'model': MainmenuScreenModel,
+        'controller': MainmenuScreenController,
+    },
+    'addproduct screen': {
+        'model': AddproductScreenModel,
+        'controller': AddproductScreenController,
+    },
+    'productlist screen': {
+        'model': ProductlistScreenModel,
+        'controller': ProductlistScreenController,
+    },
 }

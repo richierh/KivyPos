@@ -1,0 +1,36 @@
+<MaintainScreenView>
+    MDBoxLayout:
+        orientation: 'vertical' 
+        MDTopAppBar:
+            title:'Maintain Screen'
+            right_action_items: 
+                [
+                ["home", lambda x: root.home()],
+                ["language-python", lambda x: root.exit(),'close'],
+                ]
+        MDBoxLayout:
+            padding: ('0dp', '0dp', '0dp', '100dp')
+            orientation: 'vertical'
+            size_hint:.9,.8
+            pos_hint: {'center_x': .5, 'center_y': .5}
+            MDLabel:
+                size_hint:1,None
+                text: "Tampaknya ada masalah didalam sistem yang menyebabkan anda tidak bisa membuka halaman yang anda inginkan"
+                halign:'center'
+                # height:50
+            Image:
+                size_hint:1,1
+                source: "assets/images/Gluonit.png"
+                allow_stretch:True
+            MDLabel:
+                size_hint:1,None
+                text: "Silahkan hubungi nomor ini untuk informasi lebih lanjut"
+                halign:'center'
+                height:75
+            MDLabel:
+                size_hint:1,.05
+                text: "+6282129031607 "
+                font_size:'40sp'
+                color: rgba('#25D366')
+                halign:'center'
+                # height:200

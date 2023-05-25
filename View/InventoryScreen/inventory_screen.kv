@@ -1,0 +1,64 @@
+<InventoryScreenView>
+    MDBoxLayout:
+        orientation: 'vertical'
+        MDTopAppBar:
+            title:'Inventory'
+            right_action_items:
+                [
+                ["dots-vertical", lambda x: root.main_menu()],
+                ["clock", lambda x: root.callback_2()]
+                ]
+
+            
+        MDBoxLayout:
+            orientation: 'horizontal'
+            spacing:10
+            padding: ('10dp', '10dp', '10dp', '10dp')
+            MDCard:
+                elevation:3
+                size_hint: 1, 1
+                MDIconButton:
+                    size_hint:1,1
+                    icon:'bow-tie'
+                    pos_hint: {"center_x": .5, "center_y": .5}
+                    icon_size:'100sp'
+            MDCard:
+                orientation:'vertical'
+                elevation:3
+                size_hint: 1, 1
+                # size: "200dp", "100dp"
+
+                MDIconButton:
+                    size_hint:1,1
+                    icon:'information-variant'
+                    pos_hint: {"center_x": .5, "center_y": .5}
+
+                MDLabel:
+                    size_hint:1,None
+                    height:50
+                    halign:'center'
+                    text:'Inventory'
+                
+
+        MDLabel:
+            text:'Inventory'
+            halign:'center'
+        MDRaisedButton
+            size_hint: 1,1 
+            text:'hh'
+            pos_hint: {'center_x': .5, 'center_y': .5}
+            on_release:root.main_menu()
+        MDRaisedButton
+            size_hint: 1,1 
+            text:'Delete'
+            pos_hint: {'center_x': .5, 'center_y': .5}
+            on_release:root.del_product_page()
+
+        MDRaisedButton
+            size_hint: 1,1 
+            text:'Add'
+            pos_hint: {'center_x': .5, 'center_y': .5}
+            on_release:root.add_product_page()
+
+    # MDBoxLayout:
+    #     orientation:'vertical'

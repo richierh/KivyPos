@@ -24,3 +24,8 @@ class RegisterScreenController:
 
     def get_view(self) -> View.RegisterScreen.register_screen:
         return self.view
+
+    def insert_data(self,*args):
+        self.args = args[0]
+        self.model.insert_data(self.args)
+        pass

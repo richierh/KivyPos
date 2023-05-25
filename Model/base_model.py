@@ -5,13 +5,17 @@
 # model when they are notified (in this case, it is the `model_is_changed`
 # method). For this, observers must be descendants of an abstract class,
 # inheriting which, the `model_is_changed` method must be overridden.
-
+import sqlalchemy as db
 
 class BaseScreenModel:
     """Implements a base class for model modules."""
 
     _observers = []
 
+    def engine(self):
+        engine = db.create_engine('sqlite:///Model/poscore.db')
+        return engine
+    
     def add_observer(self, observer) -> None:
         self._observers.append(observer)
 

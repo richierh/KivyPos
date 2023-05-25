@@ -1,0 +1,15 @@
+<ProductlistScreenView>
+    id:productlist
+    boxlayout:boxlayout
+    name:'productlist'
+    MDBoxLayout:
+        orientation:'vertical'
+        MDTopAppBar:
+            title: "Produk List"
+            left_action_items: [["menu", lambda x: callback()]]
+            right_action_items: [["dots-vertical", lambda x: callback()]]
+
+        MDBoxLayout:
+            id:boxlayout
+            orientation: 'vertical'
+

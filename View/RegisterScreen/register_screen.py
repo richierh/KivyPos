@@ -11,3 +11,7 @@ class RegisterScreenView(BaseScreenView):
 
     def kembali(self):
         self.manager_screens.current='main screen'
+    
+    def registration_proceed(self,*args):
+        self.args=args
+        self.controller.insert_data(self.args)

@@ -1,0 +1,40 @@
+<AddproductScreenView>
+    MDBoxLayout:
+        orientation: 'vertical'
+        MDTopAppBar:
+            title:'Add Product'
+            left_action_items: [["menu", lambda x: callback()]]
+        MDBoxLayout:
+            orientation: 'vertical'
+            spacing:10
+            MDTextFieldRect:
+                id:productname
+                hint_text:'Product Name'
+                pos_hint: {'center_x': .5, 'center_y': .5}
+                size_hint: .5, None
+                height: "30dp"
+            MDTextFieldRect:
+                id:quantity
+                hint_text:'Quantity'
+                pos_hint: {'center_x': .5, 'center_y': .5}
+                size_hint: .5, None
+                height: "30dp"
+            MDTextFieldRect:
+                id:saleprice
+                hint_text:'Sale Price'
+                pos_hint: {'center_x': .5, 'center_y': .5}
+                size_hint: .5, None
+                height: "30dp"
+            MDTextFieldRect:
+                hint_text:''
+                pos_hint: {'center_x': .5, 'center_y': .5}
+                size_hint: .5, None
+                height: "30dp"
+        MDBoxLayout:
+            orientation:'vertical'
+            MDRaisedButton:
+                text:'Ok'
+                on_release: root.masukan_barang(productname,quantity,saleprice)
+            MDRaisedButton:
+                text:'Cancel'
+                on_release: root.batalkan_input()

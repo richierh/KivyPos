@@ -15,6 +15,9 @@ class CustomIconButton(RectangularRippleBehavior,ButtonBehavior,MDBoxLayout):
 
 class PosKasir(MDScreen):
     pass
+    # def go_to_inventory_screen(self):
+    #     print('hh')
+    #     self.navigationmain.manager_screens.current='inventory screen'
 
 class MainmenuScreenView(BaseScreenView):
     drawerlist=ObjectProperty()
@@ -31,8 +34,14 @@ class MainmenuScreenView(BaseScreenView):
         according to these changes.
         """
 
+    def go_to_inventory_screen(self):
+        # print('hhokay')
+        self.manager_screens.current='inventory screen'
 
 
+    def go_to_cashier_screen(self):
+        self.manager_screens.current='poskasir screen'
+        pass
 
 
 class ContentNavigationDrawer(MDBoxLayout):
@@ -41,6 +50,7 @@ class ContentNavigationDrawer(MDBoxLayout):
     nav_drawer = ObjectProperty()
     screen1 = ObjectProperty()
     navigationtoolbar = ObjectProperty()
+
 
     def toggle_nav_drawer(self):
         pass

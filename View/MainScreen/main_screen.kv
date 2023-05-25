@@ -43,8 +43,12 @@
             normal_color:colors['Purple']['200']
             # line_color_normal:32/255, 123/255, 160/255, 1
             # line_color_focus: 32/255, 123/255, 160/255, 1
+            id:username
+            name:'username'
 
         MDTextField:
+            name:'password'
+            id:password
             pos_hint:{'center_x':.5,'center_y':1}
             size_hint:.5,None
             color_mode: 'custom'
@@ -56,24 +60,42 @@
             # line_color_focus: 32/255, 123/255, 160/255, 1
 
         MDBoxLayout:
-            orientation:'vertical'      
-            size_hint:1,1 
-            MDBoxLayout:
-                orientation:'horizontal'
-                size_hint:.5,1
-                pos_hint:{'center_x':.5,'center_y':.5}
-                spacing :20
-                MDFillRoundFlatButton:
-                    pos_hint: {'center_x': .5, 'center_y': .8}
-                    text: "Login"
-                    md_bg_color:colors['Purple']['500']
-                    # md_bg_color: 32/255, 123/255, 160/255, 1
-                    size_hint:.5,None
-                    on_release:root.login()
-                MDFillRoundFlatButton:
-                    text: "Sign Up"
-                    pos_hint: {'center_x': .5, 'center_y': .8}
-                    md_bg_color:colors['Purple']['500']
-                    # md_bg_color: 32/255, 123/255, 160/255, 1
-                    size_hint:.5,None
-                    on_release: root.signup()
+            orientation:'horizontal'
+            padding: ('0dp', '30dp', '0dp', '0dp')
+            size_hint:.5,None
+            pos_hint:{'center_x':.5,'center_y':.5}
+            spacing :20
+            height:50
+            MDFillRoundFlatButton:
+                pos_hint: {'center_x': .5, 'center_y': .8}
+                text: "Login"
+                md_bg_color:colors['Purple']['500']
+                # md_bg_color: 32/255, 123/255, 160/255, 1
+                size_hint:.5,None
+                on_release:root.login(username,password)
+            MDFillRoundFlatButton:
+                text: "Sign Up"
+                pos_hint: {'center_x': .5, 'center_y': .8}
+                md_bg_color:colors['Purple']['500']
+                # md_bg_color: 32/255, 123/255, 160/255, 1
+                size_hint:.5,None
+                on_release: root.signup()
+
+        MDBoxLayout:
+            height:30
+            size_hint:1,None
+            orientation:'vertical'
+            pos_hint: {'center_x':.5 , 'center_y':.5 }
+           
+            MDLabel:
+                pos_hint: {'center_x': 0.5,'center_y': 0.5}
+                size_hint:1,1
+                text:root.mistake
+                halign:'center'
+                height:25
+                font_size:'12sp'
+                color:rgba('#ff0000')
+        MDBoxLayout:
+            size_hint:1,1
+            orientation:'vertical'
+            pos_hint: {'center_x':.5 , 'center_y':.5 }

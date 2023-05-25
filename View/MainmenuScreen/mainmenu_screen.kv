@@ -1,7 +1,8 @@
 <MainmenuScreenView>
     drawerlist:root.drawerlist
+    poskasir:poskasir
     id:navigationmain
-    nav_drawer:nav_drawer
+    # nav_drawer:nav_drawer
     MDBoxLayout:
         orientation:'vertical'
         MDTopAppBar:
@@ -12,8 +13,7 @@
             id:navigationtoolbar
             title: "Menu Utama"
             elevation: 3
-            # left_action_items: [['menu', lambda x: nav_drawer.toggle_nav_drawer()]]
-            left_action_items: [['menu', lambda x: nav_drawer.set_state("open")]]
+            left_action_items: [['menu', lambda x:nav_drawer.set_state("open")]]
         MDNavigationLayout:
             x: navigationtoolbar.height
             size_hint_y: 1.0 - navigationtoolbar.height/root.height
@@ -22,6 +22,7 @@
                 PosKasir:
                     drawerlist:root.drawerlist
                     id:poskasir
+                    navigationmain:navigationmain
             MDNavigationDrawer:
                 id:nav_drawer
                 ContentNavigationDrawer:
@@ -29,7 +30,8 @@
                     id:navigationcontent
 
 <PosKasir>:
-    id:poskasir
+    id:root.poskasir
+    navigationmain:root.navigationmain
     MDBoxLayout:
         orientation: 'vertical' 
         size_hint:1,1
@@ -131,6 +133,8 @@
                     icon:'cash-register'
                     # icon_color: app.theme_cls.primary_palette('Purple')
                     pos_hint: {'center_x': .5, 'center_y': .5}
+                    on_release: root.navigationmain.go_to_cashier_screen()
+
             CustomIconButton:
                 size_hint:1,1 
                 text:'POS'
@@ -186,12 +190,15 @@
             CustomIconButton:
                 md_bg_color: colors['Purple']['100']
                 size_hint:1,1 
-                text:'POS'
+                text:'Ketersediaan'
                 MDIconButton:
                     size_hint:.5,1
                     icon_size:'48'
                     icon:'cupboard-outline'
                     pos_hint: {'center_x': .5, 'center_y': .5}
+                
+                    on_release: root.navigationmain.go_to_inventory_screen()
+                                # root.navigationmain.manager_screen
 
                 # Image:
                 #     source:""
