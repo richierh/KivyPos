@@ -29,6 +29,7 @@ from kivy.core.window import Window
 Window.top = 0
 Window.left = resolution[0] - Window.width
 
+# from kivymd.app import MDApp
 from kivymd.tools.hotreload.app import MDApp
 from kivymd.uix.screenmanager import MDScreenManager
 
@@ -73,7 +74,7 @@ class Pos(MDApp):
 
 Pos().run()
 
-from kivy.lang import Builder
+# from kivy.lang import Builder
 # from kivymd.app import MDApp
 # from kivy.app import App
 # import kivymd

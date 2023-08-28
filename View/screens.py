@@ -19,31 +19,13 @@ from Model.addproduct_screen import AddproductScreenModel
 from Controller.addproduct_screen import AddproductScreenController
 from Model.deleteproduct_screen import DeleteproductScreenModel
 from Controller.deleteproduct_screen import DeleteproductScreenController
+from Model.use_screen import UseScreenModel
+from Controller.use_screen import UseScreenController
 
 screens = {
-    'inventory screen': {
-        'model': InventoryScreenModel,
-        'controller': InventoryScreenController,
-    },
-    'register screen': {
-        'model': RegisterScreenModel,
-        'controller': RegisterScreenController,
-    },
     'poskasir screen': {
         'model': PoskasirScreenModel,
         'controller': PoskasirScreenController,
-    },
-    'deleteproduct screen': {
-        'model': DeleteproductScreenModel,
-        'controller': DeleteproductScreenController,
-    },
-    'main screen': {
-        'model': MainScreenModel,
-        'controller': MainScreenController,
-    },
-    'maintain screen': {
-        'model': MaintainScreenModel,
-        'controller': MaintainScreenController,
     },
     'mainmenu screen': {
         'model': MainmenuScreenModel,
@@ -53,8 +35,32 @@ screens = {
         'model': AddproductScreenModel,
         'controller': AddproductScreenController,
     },
+    'use screen': {
+        'model': UseScreenModel,
+        'controller': UseScreenController,
+    },
+    'inventory screen': {
+        'model': InventoryScreenModel,
+        'controller': InventoryScreenController,
+    },
+    'register screen': {
+        'model': RegisterScreenModel,
+        'controller': RegisterScreenController,
+    },
     'productlist screen': {
         'model': ProductlistScreenModel,
         'controller': ProductlistScreenController,
+    },
+    'maintain screen': {
+        'model': MaintainScreenModel,
+        'controller': MaintainScreenController,
+    },
+    'deleteproduct screen': {
+        'model': DeleteproductScreenModel,
+        'controller': DeleteproductScreenController,
+    },
+    'main screen': {
+        'model': MainScreenModel,
+        'controller': MainScreenController,
     },
 }

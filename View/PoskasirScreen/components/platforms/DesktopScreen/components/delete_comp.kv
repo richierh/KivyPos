@@ -1,0 +1,93 @@
+<DeleteScreenView>:
+    tablecashregister:root.tablecashregister
+    MDBoxLayout:
+        orientation:'vertical'
+        MDTopAppBar:
+            title:'Cash Register'
+            right_action_items: 
+                [
+                ['arrow-left', lambda x: root.go_back()]
+                ]
+
+        MDBoxLayout:
+            padding:[10,10,10,10]
+            # spacing:3
+            orientation:'vertical'    
+            MDBoxLayout:
+                height:50
+                size_hint:None,None
+                spacing:10
+                orientation:'horizontal'
+                MDRaisedButton:
+                    text:'Delete'
+                    on_release:root.run(kuantiti,nama_produk)
+                # MDRaisedButton:
+                #     text:'test input'
+                #     on_release:root.run()
+                # MDRaisedButton:
+                #     text:'test input'
+                #     on_release:root.run()
+                # MDRaisedButton:
+                #     text:'test input'
+                #     on_release:root.run()
+
+            MDLabel:
+                text: 'Nama Produk'
+                halign:'center' 
+                size_hint:1,None
+                height:30
+                font_style:'H6'
+                # font_name:'cmmi10'
+                # family_name:'cmmi10'
+                bold:True
+                canvas.before:
+                    Color:
+                        rgba: 0,0,0,1
+                    Line:
+                        points: self.center_x-100,self.center_y-20,self.center_x+100,self.center_y-20
+            MDLabel:
+                id: nama_produk
+                height:30
+                text: root.label_text[0]
+                halign:'center' 
+                size_hint:1,None
+                # lbl3 = Label(font_context='system://myapp', family_name='Arial')
+
+            MDBoxLayout:
+                orientation:'vertical'
+                spacing:20
+                size_hint:1,None
+                height:80
+                MDLabel:
+                    height:30
+                    text: 'Jumlah Produk'
+                    halign:'center' 
+                    size_hint:1,None
+                    font_style:'H6'
+                    # font_name:'cmmi10'
+                    # family_name:'cmmi10'
+                    bold:True
+                    canvas.before:
+                        Color:
+                            rgba: 0,0,0,1
+                        Line:
+                            points: self.center_x-100,self.center_y-20,self.center_x+100,self.center_y-20
+                MDTextFieldRect:
+                    id:kuantiti
+                    text:root.label_text[0]
+                    halign:'center' 
+                    size_hint:None,None
+                    width:100
+                    height:30
+                    pos_hint: {'center_x': .5, 'center_y': .5}
+            MDLabel:
+                text: root.label_text[0]
+                height:30
+                halign:'center' 
+                size_hint:1,None
+            Image:
+                source:root.label_text[1]
+                # source:'assets/images/productimages/gambar_minyak_goreng.jpg'
+                pos_hint: {'center_x': .5, 'center_y': .5}
+                size_hint:.5,1
+            

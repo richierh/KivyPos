@@ -1,5 +1,5 @@
 from Model.base_model import BaseScreenModel
-from Model.konekspreadsheet import Spreadkonek
+# from Model.konekspreadsheet import Spreadkonek
 from Model.automap import Person
 import sqlalchemy as db
 

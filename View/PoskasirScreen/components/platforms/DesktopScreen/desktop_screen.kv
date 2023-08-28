@@ -1,0 +1,174 @@
+#:import rgba kivy.utils.get_color_from_hex
+
+<DesktopScreenView>:
+    tablecashregister:tablecashregister
+    id:desktopscreen 
+    name:"desktopscreen"
+    man_screen:man_screen
+    ScreenManager:
+        id:man_screen 
+        name:'man_screen'
+        DeleteScreenView:
+            id:screen 
+            name:'delete screen'
+
+        Screen:
+            id:screen2
+            name:'pos screen'
+            MDBoxLayout:
+                orientation:'vertical'
+                MDTopAppBar:
+                    title:'Cash Register'
+                    right_action_items: 
+                        [
+                        ['arrow-left', lambda x: root.go_back()]
+                        ]
+
+                MDBoxLayout:
+                    padding:[10,10,10,10]
+        
+                    spacing:5
+                    orientation:'vertical'
+                
+                    MDBoxLayout:
+                        spacing:5
+                        orientation:'horizontal'
+                        TableCashRegister:
+                            id:tablecashregister 
+                            name:'table cash register'
+                            size_hint:.7,1
+                        MDRaisedButton:
+                            size_hint:.3,1
+                            text:'hh'
+                    
+                    MDBoxLayout:
+                        spacing:3
+                        size_hint:1,None
+                        orientation:'horizontal'
+                        height:35
+                        MDTextFieldRect:
+                            size_hint:.9,None
+                            pos_hint: {'center_x': 0.5,'center_y': 0.5}
+                            height:35
+                            hint_text:'nama produk'
+                        MDRaisedButton:
+                            size_hint:None,None
+                            text:'pilih'
+                            pos_hint: {'center_x': 0.5,'center_y': 0.5}
+
+                    MDBoxLayout:
+                        orientation:'horizontal'
+                        size_hint:1,None
+                        height:35
+                        spacing:3
+                        MDRaisedButton:
+                            size_hint:1,1
+                            text:'Delete'
+                            on_release: root.delete()
+                        MDRaisedButton:
+                            size_hint:1,1
+                            text:'but'
+                        MDRaisedButton:
+                            size_hint:1,1
+                            text:'but'
+                        MDRaisedButton:
+                            size_hint:1,1
+                            text:'but'
+                        MDRaisedButton:
+                            size_hint:1,1
+                            text:'but'
+                    MDBoxLayout:
+                        orientation:'horizontal'
+                        size_hint:1,1
+                        spacing:3
+
+                        MDGridLayout:
+                            spacing:3
+                            size_hint:.3,1
+                            rows:4
+                            cols:4
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'3ss'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:''
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'/'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'*'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'7'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'8'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'9'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'-'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'4'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'5'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'6'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'+'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'1'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'2'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'3'
+                                size_hint:1,1
+                            MDRaisedButton:
+                                md_bg_color: rgba("#f3e4eb")
+                                text_color: rgba("#000000")
+                                text:'='
+                                size_hint:1,1
+
+                        MDRaisedButton:
+                            text:'jj'
+                            size_hint:.7,1
+

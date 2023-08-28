@@ -1,0 +1,189 @@
+<MobileScreenView>
+    ScreenManager:
+        MainScreen:
+            id:mainscreen
+            name:'pos screen'
+        SecondScreen:
+            id:secondscreen
+            name:'product screen'
+
+<MainScreen>:
+    MDBoxLayout:
+        orientation:'vertical'
+        padding:[10,10,10,10]
+
+        spacing:5
+        orientation:'vertical'
+
+        MDTopAppBar:
+            title:'Cash Register'
+            right_action_items: 
+                [
+                ['arrow-left', lambda x: root.go_back()]
+                ]
+        MDBoxLayout:
+            size_hint:1,.5
+            spacing:5
+            orientation:'horizontal'
+            TableCashRegister:
+                size_hint:1,1
+        MDRaisedButton:
+            size_hint:1,None
+            text:'hh'
+        MDBoxLayout:
+            spacing:3
+            size_hint:1,None
+            orientation:'horizontal'
+            height:35
+            MDTextFieldRect:
+                id:nama_produk
+                size_hint:.9,None
+                pos_hint: {'center_x': 0.5,'center_y': 0.5}
+                height:35
+                hint_text:'nama produk'
+            MDRaisedButton:
+                size_hint:None,None
+                text:'pilih'
+                pos_hint: {'center_x': 0.5,'center_y': 0.5}
+                on_release:root.go_product_image(nama_produk)
+
+
+        MDBoxLayout:
+            orientation:'horizontal'
+            size_hint:1,None
+            height:35
+            spacing:3
+            MDRaisedButton:
+                size_hint:1,1
+                text:'but'
+            MDRaisedButton:
+                size_hint:1,1
+                text:'but'
+            MDRaisedButton:
+                size_hint:1,1
+                text:'but'
+            MDRaisedButton:
+                size_hint:1,1
+                text:'but'
+            MDRaisedButton:
+                size_hint:1,1
+                text:'but'
+        MDRaisedButton:
+            text:'jj'
+            size_hint:1,.2
+            on_release:root.go_product_image()
+        MDBoxLayout:
+            orientation:'horizontal'
+            size_hint:1,.5
+            spacing:3
+            MDGridLayout:
+                spacing:3
+                size_hint:.3,1
+                rows:4
+                cols:4
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'3ss'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:''
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'/'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'*'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'7'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'8'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'9'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'-'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'4'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'5'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'6'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'+'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'1'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'2'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'3'
+                    size_hint:1,1
+                MDRaisedButton:
+                    md_bg_color: rgba("#f3e4eb")
+                    text_color: rgba("#000000")
+                    text:'='
+                    size_hint:1,1
+
+
+<SecondScreen>:
+    MDBoxLayout:
+        orientation:'vertical'
+        padding:[10,10,10,10]
+
+        spacing:5
+        orientation:'vertical'
+
+        MDTopAppBar:
+            title:'Cash Register'
+            right_action_items: 
+                [
+                ['arrow-left', lambda x: root.go_back()]
+                ]
+        
+        MDBoxLayout:
+            orientation: 'vertical'
+            TableCashRegister:
+                size_hint:1,1
+            Image:
+                source:'assets/images/productimages/gambar_minyak_goreng.jpg'
+            MDRaisedButton:
+                text:'tes'
+                on_release:root.go_product_image()

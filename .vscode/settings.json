@@ -14,7 +14,6 @@
             "username": "pmc"
         }
     ],
-    "python.pythonPath": "/home/cireng/.virtualenvs/KivyPos/bin/python",
     "python.linting.enabled": false,
     "python.linting.pylintEnabled": false
 }

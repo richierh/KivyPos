@@ -1,0 +1,2532 @@
+[
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "View.AddproductScreen.addproduct_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.AddproductScreen.addproduct_screen",
+        "description": "View.AddproductScreen.addproduct_screen",
+        "detail": "View.AddproductScreen.addproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.DeleteproductScreen.deleteproduct_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.DeleteproductScreen.deleteproduct_screen",
+        "description": "View.DeleteproductScreen.deleteproduct_screen",
+        "detail": "View.DeleteproductScreen.deleteproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.InventoryScreen.inventory_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.InventoryScreen.inventory_screen",
+        "description": "View.InventoryScreen.inventory_screen",
+        "detail": "View.InventoryScreen.inventory_screen",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "View.MainScreen.main_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.MainScreen.main_screen",
+        "description": "View.MainScreen.main_screen",
+        "detail": "View.MainScreen.main_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.MainmenuScreen.mainmenu_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainmenuScreenView",
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "isExtraImport": true,
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.MaintainScreen.maintain_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.MaintainScreen.maintain_screen",
+        "description": "View.MaintainScreen.maintain_screen",
+        "detail": "View.MaintainScreen.maintain_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.PoskasirScreen.poskasir_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.PoskasirScreen.poskasir_screen",
+        "description": "View.PoskasirScreen.poskasir_screen",
+        "detail": "View.PoskasirScreen.poskasir_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.ProductlistScreen.productlist_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.ProductlistScreen.productlist_screen",
+        "description": "View.ProductlistScreen.productlist_screen",
+        "detail": "View.ProductlistScreen.productlist_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.RegisterScreen.register_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.RegisterScreen.register_screen",
+        "description": "View.RegisterScreen.register_screen",
+        "detail": "View.RegisterScreen.register_screen",
+        "documentation": {}
+    },
+    {
+        "label": "View.UseScreen.use_screen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.UseScreen.use_screen",
+        "description": "View.UseScreen.use_screen",
+        "detail": "View.UseScreen.use_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "isExtraImport": true,
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "Inventory",
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "isExtraImport": true,
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "isExtraImport": true,
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "isExtraImport": true,
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "isExtraImport": true,
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "PersonDetail",
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "isExtraImport": true,
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "NullType",
+        "importPath": "sqlalchemy.sql.sqltypes",
+        "description": "sqlalchemy.sql.sqltypes",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.sqltypes",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "gspread",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gspread",
+        "description": "gspread",
+        "detail": "gspread",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Credentials",
+        "importPath": "google.oauth2.service_account",
+        "description": "google.oauth2.service_account",
+        "isExtraImport": true,
+        "detail": "google.oauth2.service_account",
+        "documentation": {}
+    },
+    {
+        "label": "Spreadkonek",
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "isExtraImport": true,
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "isExtraImport": true,
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "RectangularRippleBehavior",
+        "importPath": "kivymd.uix.behaviors",
+        "description": "kivymd.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "RectangularRippleBehavior",
+        "importPath": "kivymd.uix.behaviors",
+        "description": "kivymd.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "ButtonBehavior",
+        "importPath": "kivy.uix.behaviors",
+        "description": "kivy.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivy.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "ButtonBehavior",
+        "importPath": "kivy.uix.behaviors",
+        "description": "kivy.uix.behaviors",
+        "isExtraImport": true,
+        "detail": "kivy.uix.behaviors",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDBoxLayout",
+        "importPath": "kivymd.uix.boxlayout",
+        "description": "kivymd.uix.boxlayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.boxlayout",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "kivy.uix.image",
+        "description": "kivy.uix.image",
+        "isExtraImport": true,
+        "detail": "kivy.uix.image",
+        "documentation": {}
+    },
+    {
+        "label": "MDIconButton",
+        "importPath": "kivymd.uix.button",
+        "description": "kivymd.uix.button",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.button",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ListProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ListProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "ListProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "StringProperty",
+        "importPath": "kivy.properties",
+        "description": "kivy.properties",
+        "isExtraImport": true,
+        "detail": "kivy.properties",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Clock",
+        "importPath": "kivy.clock",
+        "description": "kivy.clock",
+        "isExtraImport": true,
+        "detail": "kivy.clock",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreen",
+        "importPath": "kivymd.uix.screen",
+        "description": "kivymd.uix.screen",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screen",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineIconListItem",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "MDList",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineIconListItem",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "OneLineIconListItem",
+        "importPath": "kivymd.uix.list",
+        "description": "kivymd.uix.list",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.list",
+        "documentation": {}
+    },
+    {
+        "label": "View.UseScreen.components",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "View.UseScreen.components",
+        "description": "View.UseScreen.components",
+        "detail": "View.UseScreen.components",
+        "documentation": {}
+    },
+    {
+        "label": "MobileScreenView",
+        "importPath": "View.UseScreen.components",
+        "description": "View.UseScreen.components",
+        "isExtraImport": true,
+        "detail": "View.UseScreen.components",
+        "documentation": {}
+    },
+    {
+        "label": "TabletScreenView",
+        "importPath": "View.UseScreen.components",
+        "description": "View.UseScreen.components",
+        "isExtraImport": true,
+        "detail": "View.UseScreen.components",
+        "documentation": {}
+    },
+    {
+        "label": "DesktopScreenView",
+        "importPath": "View.UseScreen.components",
+        "description": "View.UseScreen.components",
+        "isExtraImport": true,
+        "detail": "View.UseScreen.components",
+        "documentation": {}
+    },
+    {
+        "label": "MDDataTable",
+        "importPath": "kivymd.uix.datatables",
+        "description": "kivymd.uix.datatables",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.datatables",
+        "documentation": {}
+    },
+    {
+        "label": "MDDataTable",
+        "importPath": "kivymd.uix.datatables",
+        "description": "kivymd.uix.datatables",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.datatables",
+        "documentation": {}
+    },
+    {
+        "label": "MDDataTable",
+        "importPath": "kivymd.uix.datatables",
+        "description": "kivymd.uix.datatables",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.datatables",
+        "documentation": {}
+    },
+    {
+        "label": "MDDataTable",
+        "importPath": "kivymd.uix.datatables",
+        "description": "kivymd.uix.datatables",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.datatables",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "importPath": "kivy.metrics",
+        "description": "kivy.metrics",
+        "isExtraImport": true,
+        "detail": "kivy.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "importPath": "kivy.metrics",
+        "description": "kivy.metrics",
+        "isExtraImport": true,
+        "detail": "kivy.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "importPath": "kivy.metrics",
+        "description": "kivy.metrics",
+        "isExtraImport": true,
+        "detail": "kivy.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "importPath": "kivy.metrics",
+        "description": "kivy.metrics",
+        "isExtraImport": true,
+        "detail": "kivy.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "TableCashRegister",
+        "importPath": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "description": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "isExtraImport": true,
+        "detail": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MDResponsiveLayout",
+        "importPath": "kivymd.uix.responsivelayout",
+        "description": "kivymd.uix.responsivelayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.responsivelayout",
+        "documentation": {}
+    },
+    {
+        "label": "MDResponsiveLayout",
+        "importPath": "kivymd.uix.responsivelayout",
+        "description": "kivymd.uix.responsivelayout",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.responsivelayout",
+        "documentation": {}
+    },
+    {
+        "label": "MobileScreenView",
+        "importPath": "View.PoskasirScreen.components",
+        "description": "View.PoskasirScreen.components",
+        "isExtraImport": true,
+        "detail": "View.PoskasirScreen.components",
+        "documentation": {}
+    },
+    {
+        "label": "TabletScreenView",
+        "importPath": "View.PoskasirScreen.components",
+        "description": "View.PoskasirScreen.components",
+        "isExtraImport": true,
+        "detail": "View.PoskasirScreen.components",
+        "documentation": {}
+    },
+    {
+        "label": "DesktopScreenView",
+        "importPath": "View.PoskasirScreen.components",
+        "description": "View.PoskasirScreen.components",
+        "isExtraImport": true,
+        "detail": "View.PoskasirScreen.components",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "isExtraImport": true,
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "isExtraImport": true,
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "isExtraImport": true,
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "isExtraImport": true,
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.app",
+        "description": "kivymd.app",
+        "isExtraImport": true,
+        "detail": "kivymd.app",
+        "documentation": {}
+    },
+    {
+        "label": "ThemableBehavior",
+        "importPath": "kivymd.theming",
+        "description": "kivymd.theming",
+        "isExtraImport": true,
+        "detail": "kivymd.theming",
+        "documentation": {}
+    },
+    {
+        "label": "Observer",
+        "importPath": "Utility.observer",
+        "description": "Utility.observer",
+        "isExtraImport": true,
+        "detail": "Utility.observer",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterScreenModel",
+        "importPath": "Model.register_screen",
+        "description": "Model.register_screen",
+        "isExtraImport": true,
+        "detail": "Model.register_screen",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterScreenController",
+        "importPath": "Controller.register_screen",
+        "description": "Controller.register_screen",
+        "isExtraImport": true,
+        "detail": "Controller.register_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainmenuScreenModel",
+        "importPath": "Model.mainmenu_screen",
+        "description": "Model.mainmenu_screen",
+        "isExtraImport": true,
+        "detail": "Model.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainmenuScreenController",
+        "importPath": "Controller.mainmenu_screen",
+        "description": "Controller.mainmenu_screen",
+        "isExtraImport": true,
+        "detail": "Controller.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "PoskasirScreenModel",
+        "importPath": "Model.poskasir_screen",
+        "description": "Model.poskasir_screen",
+        "isExtraImport": true,
+        "detail": "Model.poskasir_screen",
+        "documentation": {}
+    },
+    {
+        "label": "PoskasirScreenController",
+        "importPath": "Controller.poskasir_screen",
+        "description": "Controller.poskasir_screen",
+        "isExtraImport": true,
+        "detail": "Controller.poskasir_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainScreenModel",
+        "importPath": "Model.main_screen",
+        "description": "Model.main_screen",
+        "isExtraImport": true,
+        "detail": "Model.main_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainScreenController",
+        "importPath": "Controller.main_screen",
+        "description": "Controller.main_screen",
+        "isExtraImport": true,
+        "detail": "Controller.main_screen",
+        "documentation": {}
+    },
+    {
+        "label": "InventoryScreenModel",
+        "importPath": "Model.inventory_screen",
+        "description": "Model.inventory_screen",
+        "isExtraImport": true,
+        "detail": "Model.inventory_screen",
+        "documentation": {}
+    },
+    {
+        "label": "InventoryScreenController",
+        "importPath": "Controller.inventory_screen",
+        "description": "Controller.inventory_screen",
+        "isExtraImport": true,
+        "detail": "Controller.inventory_screen",
+        "documentation": {}
+    },
+    {
+        "label": "ProductlistScreenModel",
+        "importPath": "Model.productlist_screen",
+        "description": "Model.productlist_screen",
+        "isExtraImport": true,
+        "detail": "Model.productlist_screen",
+        "documentation": {}
+    },
+    {
+        "label": "ProductlistScreenController",
+        "importPath": "Controller.productlist_screen",
+        "description": "Controller.productlist_screen",
+        "isExtraImport": true,
+        "detail": "Controller.productlist_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MaintainScreenModel",
+        "importPath": "Model.maintain_screen",
+        "description": "Model.maintain_screen",
+        "isExtraImport": true,
+        "detail": "Model.maintain_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MaintainScreenController",
+        "importPath": "Controller.maintain_screen",
+        "description": "Controller.maintain_screen",
+        "isExtraImport": true,
+        "detail": "Controller.maintain_screen",
+        "documentation": {}
+    },
+    {
+        "label": "AddproductScreenModel",
+        "importPath": "Model.addproduct_screen",
+        "description": "Model.addproduct_screen",
+        "isExtraImport": true,
+        "detail": "Model.addproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "AddproductScreenController",
+        "importPath": "Controller.addproduct_screen",
+        "description": "Controller.addproduct_screen",
+        "isExtraImport": true,
+        "detail": "Controller.addproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteproductScreenModel",
+        "importPath": "Model.deleteproduct_screen",
+        "description": "Model.deleteproduct_screen",
+        "isExtraImport": true,
+        "detail": "Model.deleteproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteproductScreenController",
+        "importPath": "Controller.deleteproduct_screen",
+        "description": "Controller.deleteproduct_screen",
+        "isExtraImport": true,
+        "detail": "Controller.deleteproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "UseScreenModel",
+        "importPath": "Model.use_screen",
+        "description": "Model.use_screen",
+        "isExtraImport": true,
+        "detail": "Model.use_screen",
+        "documentation": {}
+    },
+    {
+        "label": "UseScreenController",
+        "importPath": "Controller.use_screen",
+        "description": "Controller.use_screen",
+        "isExtraImport": true,
+        "detail": "Controller.use_screen",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline_to_binary",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "locale",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "locale",
+        "description": "locale",
+        "detail": "locale",
+        "documentation": {}
+    },
+    {
+        "label": "manpage",
+        "importPath": "docutils.writers",
+        "description": "docutils.writers",
+        "isExtraImport": true,
+        "detail": "docutils.writers",
+        "documentation": {}
+    },
+    {
+        "label": "Writer",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "Reader",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "mkstemp",
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "isExtraImport": true,
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "Builder",
+        "importPath": "kivy.lang",
+        "description": "kivy.lang",
+        "isExtraImport": true,
+        "detail": "kivy.lang",
+        "documentation": {}
+    },
+    {
+        "label": "Builder",
+        "importPath": "kivy.lang",
+        "description": "kivy.lang",
+        "isExtraImport": true,
+        "detail": "kivy.lang",
+        "documentation": {}
+    },
+    {
+        "label": "Builder",
+        "importPath": "kivy.lang",
+        "description": "kivy.lang",
+        "isExtraImport": true,
+        "detail": "kivy.lang",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "importPath": "kivymd.color_definitions",
+        "description": "kivymd.color_definitions",
+        "isExtraImport": true,
+        "detail": "kivymd.color_definitions",
+        "documentation": {}
+    },
+    {
+        "label": "MDTabsBase",
+        "importPath": "kivymd.uix.tab",
+        "description": "kivymd.uix.tab",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.tab",
+        "documentation": {}
+    },
+    {
+        "label": "Factory",
+        "importPath": "kivy.factory",
+        "description": "kivy.factory",
+        "isExtraImport": true,
+        "detail": "kivy.factory",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "kivy",
+        "description": "kivy",
+        "isExtraImport": true,
+        "detail": "kivy",
+        "documentation": {}
+    },
+    {
+        "label": "ImageGrab",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "kivy.core.window",
+        "description": "kivy.core.window",
+        "isExtraImport": true,
+        "detail": "kivy.core.window",
+        "documentation": {}
+    },
+    {
+        "label": "MDApp",
+        "importPath": "kivymd.tools.hotreload.app",
+        "description": "kivymd.tools.hotreload.app",
+        "isExtraImport": true,
+        "detail": "kivymd.tools.hotreload.app",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreenManager",
+        "importPath": "kivymd.uix.screenmanager",
+        "description": "kivymd.uix.screenmanager",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screenmanager",
+        "documentation": {}
+    },
+    {
+        "label": "MDScreenManager",
+        "importPath": "kivymd.uix.screenmanager",
+        "description": "kivymd.uix.screenmanager",
+        "isExtraImport": true,
+        "detail": "kivymd.uix.screenmanager",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "kivy.uix.screenmanager",
+        "description": "kivy.uix.screenmanager",
+        "isExtraImport": true,
+        "detail": "kivy.uix.screenmanager",
+        "documentation": {}
+    },
+    {
+        "label": "Screen",
+        "importPath": "kivy.uix.screenmanager",
+        "description": "kivy.uix.screenmanager",
+        "isExtraImport": true,
+        "detail": "kivy.uix.screenmanager",
+        "documentation": {}
+    },
+    {
+        "label": "md_icons",
+        "importPath": "kivymd.icon_definitions",
+        "description": "kivymd.icon_definitions",
+        "isExtraImport": true,
+        "detail": "kivymd.icon_definitions",
+        "documentation": {}
+    },
+    {
+        "label": "md_icons",
+        "importPath": "kivymd.icon_definitions",
+        "description": "kivymd.icon_definitions",
+        "isExtraImport": true,
+        "detail": "kivymd.icon_definitions",
+        "documentation": {}
+    },
+    {
+        "label": "screens",
+        "importPath": "View.screens",
+        "description": "View.screens",
+        "isExtraImport": true,
+        "detail": "View.screens",
+        "documentation": {}
+    },
+    {
+        "label": "AddproductScreenController",
+        "kind": 6,
+        "importPath": "Controller.addproduct_screen",
+        "description": "Controller.addproduct_screen",
+        "peekOfCode": "class AddproductScreenController:\n    \"\"\"\n    The `AddproductScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.addproduct_screen.AddproductScreenModel\n        self.view = View.AddproductScreen.addproduct_screen.AddproductScreenView(controller=self, model=self.model)",
+        "detail": "Controller.addproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteproductScreenController",
+        "kind": 6,
+        "importPath": "Controller.deleteproduct_screen",
+        "description": "Controller.deleteproduct_screen",
+        "peekOfCode": "class DeleteproductScreenController:\n    \"\"\"\n    The `DeleteproductScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.deleteproduct_screen.DeleteproductScreenModel\n        self.view = View.DeleteproductScreen.deleteproduct_screen.DeleteproductScreenView(controller=self, model=self.model)",
+        "detail": "Controller.deleteproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "InventoryScreenController",
+        "kind": 6,
+        "importPath": "Controller.inventory_screen",
+        "description": "Controller.inventory_screen",
+        "peekOfCode": "class InventoryScreenController:\n    \"\"\"\n    The `InventoryScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.inventory_screen.InventoryScreenModel\n        self.view = View.InventoryScreen.inventory_screen.InventoryScreenView(controller=self, model=self.model)",
+        "detail": "Controller.inventory_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainScreenController",
+        "kind": 6,
+        "importPath": "Controller.main_screen",
+        "description": "Controller.main_screen",
+        "peekOfCode": "class MainScreenController:\n    \"\"\"\n    The `MainScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.main_screen.MainScreenModel\n        self.view = View.MainScreen.main_screen.MainScreenView(controller=self, model=self.model)",
+        "detail": "Controller.main_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainmenuScreenController",
+        "kind": 6,
+        "importPath": "Controller.mainmenu_screen",
+        "description": "Controller.mainmenu_screen",
+        "peekOfCode": "class MainmenuScreenController:\n    \"\"\"\n    The `MainmenuScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.mainmenu_screen.MainmenuScreenModel\n        self.view = View.MainmenuScreen.mainmenu_screen.MainmenuScreenView(controller=self, model=self.model)",
+        "detail": "Controller.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MaintainScreenController",
+        "kind": 6,
+        "importPath": "Controller.maintain_screen",
+        "description": "Controller.maintain_screen",
+        "peekOfCode": "class MaintainScreenController:\n    \"\"\"\n    The `MaintainScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.maintain_screen.MaintainScreenModel\n        self.view = View.MaintainScreen.maintain_screen.MaintainScreenView(controller=self, model=self.model)",
+        "detail": "Controller.maintain_screen",
+        "documentation": {}
+    },
+    {
+        "label": "PoskasirScreenController",
+        "kind": 6,
+        "importPath": "Controller.poskasir_screen",
+        "description": "Controller.poskasir_screen",
+        "peekOfCode": "class PoskasirScreenController:\n    \"\"\"\n    The `PoskasirScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.poskasir_screen.PoskasirScreenModel\n        self.view = View.PoskasirScreen.poskasir_screen.PoskasirScreenView(controller=self, model=self.model)",
+        "detail": "Controller.poskasir_screen",
+        "documentation": {}
+    },
+    {
+        "label": "ProductlistScreenController",
+        "kind": 6,
+        "importPath": "Controller.productlist_screen",
+        "description": "Controller.productlist_screen",
+        "peekOfCode": "class ProductlistScreenController:\n    \"\"\"\n    The `ProductlistScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.productlist_screen.ProductlistScreenModel\n        self.view = View.ProductlistScreen.productlist_screen.ProductlistScreenView(controller=self, model=self.model)",
+        "detail": "Controller.productlist_screen",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterScreenController",
+        "kind": 6,
+        "importPath": "Controller.register_screen",
+        "description": "Controller.register_screen",
+        "peekOfCode": "class RegisterScreenController:\n    \"\"\"\n    The `RegisterScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.register_screen.RegisterScreenModel\n        self.view = View.RegisterScreen.register_screen.RegisterScreenView(controller=self, model=self.model)",
+        "detail": "Controller.register_screen",
+        "documentation": {}
+    },
+    {
+        "label": "UseScreenController",
+        "kind": 6,
+        "importPath": "Controller.use_screen",
+        "description": "Controller.use_screen",
+        "peekOfCode": "class UseScreenController:\n    \"\"\"\n    The `UseScreenController` class represents a controller implementation.\n    Coordinates work of the view with the model.\n    The controller implements the strategy pattern. The controller connects to\n    the view to control its actions.\n    \"\"\"\n    def __init__(self, model):\n        self.model = model  # Model.use_screen.UseScreenModel\n        self.view = View.UseScreen.use_screen.UseScreenView(controller=self, model=self.model)",
+        "detail": "Controller.use_screen",
+        "documentation": {}
+    },
+    {
+        "label": "AddproductScreenModel",
+        "kind": 6,
+        "importPath": "Model.addproduct_screen",
+        "description": "Model.addproduct_screen",
+        "peekOfCode": "class AddproductScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.addproduct_screen.AddproductScreen.AddproductScreenView` class.\n    \"\"\"\n    def add_product(self,*args):\n        self.args=args[0]\n        self.produk_name = self.args[0]\n        self.quantity = self.args[1]\n        self.sale_price = self.args[2]",
+        "detail": "Model.addproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "Inventory",
+        "kind": 6,
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "peekOfCode": "class Inventory(Base):\n    __tablename__ = 'Inventory'\n    id = Column(Integer, primary_key=True)\n    produk_name = Column(String)\n    quantity = Column(Integer)\n    sale_price = Column(Integer)\nclass Person(Base):\n    __tablename__ = 'Person'\n    id = Column(Integer, primary_key=True)\n    username = Column(String)",
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "peekOfCode": "class Person(Base):\n    __tablename__ = 'Person'\n    id = Column(Integer, primary_key=True)\n    username = Column(String)\n    password = Column(String)\nclass PersonDetail(Base):\n    __tablename__ = 'PersonDetail'\n    id = Column(Integer, primary_key=True)\n    fullname = Column(String)\n    address = Column(String)",
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "PersonDetail",
+        "kind": 6,
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "peekOfCode": "class PersonDetail(Base):\n    __tablename__ = 'PersonDetail'\n    id = Column(Integer, primary_key=True)\n    fullname = Column(String)\n    address = Column(String)\nt_sqlite_sequence = Table(\n    'sqlite_sequence', metadata,\n    Column('name', NullType),\n    Column('seq', NullType)\n)",
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "AccessAuthor",
+        "kind": 6,
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "peekOfCode": "class AccessAuthor(Base):\n    __tablename__ = 'AccessAuthor'\n    id = Column(Integer, primary_key=True)\n    name_authorization = Column(String, nullable=False)\n    id_person = Column(ForeignKey('Person.id'), nullable=False)\n    Person = relationship('Person')",
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "peekOfCode": "Base = declarative_base()\nmetadata = Base.metadata\nclass Inventory(Base):\n    __tablename__ = 'Inventory'\n    id = Column(Integer, primary_key=True)\n    produk_name = Column(String)\n    quantity = Column(Integer)\n    sale_price = Column(Integer)\nclass Person(Base):\n    __tablename__ = 'Person'",
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "kind": 5,
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "peekOfCode": "metadata = Base.metadata\nclass Inventory(Base):\n    __tablename__ = 'Inventory'\n    id = Column(Integer, primary_key=True)\n    produk_name = Column(String)\n    quantity = Column(Integer)\n    sale_price = Column(Integer)\nclass Person(Base):\n    __tablename__ = 'Person'\n    id = Column(Integer, primary_key=True)",
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "t_sqlite_sequence",
+        "kind": 5,
+        "importPath": "Model.automap",
+        "description": "Model.automap",
+        "peekOfCode": "t_sqlite_sequence = Table(\n    'sqlite_sequence', metadata,\n    Column('name', NullType),\n    Column('seq', NullType)\n)\nclass AccessAuthor(Base):\n    __tablename__ = 'AccessAuthor'\n    id = Column(Integer, primary_key=True)\n    name_authorization = Column(String, nullable=False)\n    id_person = Column(ForeignKey('Person.id'), nullable=False)",
+        "detail": "Model.automap",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenModel",
+        "kind": 6,
+        "importPath": "Model.base_model",
+        "description": "Model.base_model",
+        "peekOfCode": "class BaseScreenModel:\n    \"\"\"Implements a base class for model modules.\"\"\"\n    _observers = []\n    def engine(self):\n        engine = db.create_engine('sqlite:///Model/poscore.db')\n        return engine\n    def add_observer(self, observer) -> None:\n        self._observers.append(observer)\n    def remove_observer(self, observer) -> None:\n        self._observers.remove(observer)",
+        "detail": "Model.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteproductScreenModel",
+        "kind": 6,
+        "importPath": "Model.deleteproduct_screen",
+        "description": "Model.deleteproduct_screen",
+        "peekOfCode": "class DeleteproductScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.deleteproduct_screen.DeleteproductScreen.DeleteproductScreenView` class.\n    \"\"\"",
+        "detail": "Model.deleteproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "InventoryScreenModel",
+        "kind": 6,
+        "importPath": "Model.inventory_screen",
+        "description": "Model.inventory_screen",
+        "peekOfCode": "class InventoryScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.inventory_screen.InventoryScreen.InventoryScreenView` class.\n    \"\"\"",
+        "detail": "Model.inventory_screen",
+        "documentation": {}
+    },
+    {
+        "label": "SCOPES",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "SCOPES = [\n'https://www.googleapis.com/auth/spreadsheets',\n'https://www.googleapis.com/auth/drive'\n]\nname_file = Path.cwd() / 'Model' / 'token.json'\nprint(name_file)\n# name_file = Path.cwd() / 'Model' / 'token.json'\ncredentials = Credentials.from_service_account_file(\n        name_file, scopes=SCOPES)\nclient = gs.authorize(credentials)",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "name_file",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "name_file = Path.cwd() / 'Model' / 'token.json'\nprint(name_file)\n# name_file = Path.cwd() / 'Model' / 'token.json'\ncredentials = Credentials.from_service_account_file(\n        name_file, scopes=SCOPES)\nclient = gs.authorize(credentials)\nsheet = client.open('login')\nedutech_data = sheet.get_worksheet(0)\nget_sheet = sheet.worksheet(\"login\")\n# # edutech_data = edutech_data.get_all_records()",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "credentials",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "credentials = Credentials.from_service_account_file(\n        name_file, scopes=SCOPES)\nclient = gs.authorize(credentials)\nsheet = client.open('login')\nedutech_data = sheet.get_worksheet(0)\nget_sheet = sheet.worksheet(\"login\")\n# # edutech_data = edutech_data.get_all_records()\n# # print (edutech_data)\nselectcell_col1 = get_sheet.col_values(1)\nprint(selectcell_col1)",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "client = gs.authorize(credentials)\nsheet = client.open('login')\nedutech_data = sheet.get_worksheet(0)\nget_sheet = sheet.worksheet(\"login\")\n# # edutech_data = edutech_data.get_all_records()\n# # print (edutech_data)\nselectcell_col1 = get_sheet.col_values(1)\nprint(selectcell_col1)\n# selectcell_col2 = get_sheet.col_values(2)\n# selectcell_col3 = get_sheet.col_values(3)",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "sheet",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "sheet = client.open('login')\nedutech_data = sheet.get_worksheet(0)\nget_sheet = sheet.worksheet(\"login\")\n# # edutech_data = edutech_data.get_all_records()\n# # print (edutech_data)\nselectcell_col1 = get_sheet.col_values(1)\nprint(selectcell_col1)\n# selectcell_col2 = get_sheet.col_values(2)\n# selectcell_col3 = get_sheet.col_values(3)\n# class BaseKonek():",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "edutech_data",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "edutech_data = sheet.get_worksheet(0)\nget_sheet = sheet.worksheet(\"login\")\n# # edutech_data = edutech_data.get_all_records()\n# # print (edutech_data)\nselectcell_col1 = get_sheet.col_values(1)\nprint(selectcell_col1)\n# selectcell_col2 = get_sheet.col_values(2)\n# selectcell_col3 = get_sheet.col_values(3)\n# class BaseKonek():\n#     name_file = Path.cwd() / 'Model' / 'token.json'",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "get_sheet",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "get_sheet = sheet.worksheet(\"login\")\n# # edutech_data = edutech_data.get_all_records()\n# # print (edutech_data)\nselectcell_col1 = get_sheet.col_values(1)\nprint(selectcell_col1)\n# selectcell_col2 = get_sheet.col_values(2)\n# selectcell_col3 = get_sheet.col_values(3)\n# class BaseKonek():\n#     name_file = Path.cwd() / 'Model' / 'token.json'\n#     SERVICE_ACCOUNT_FILE = name_file",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "selectcell_col1",
+        "kind": 5,
+        "importPath": "Model.konekspreadsheet",
+        "description": "Model.konekspreadsheet",
+        "peekOfCode": "selectcell_col1 = get_sheet.col_values(1)\nprint(selectcell_col1)\n# selectcell_col2 = get_sheet.col_values(2)\n# selectcell_col3 = get_sheet.col_values(3)\n# class BaseKonek():\n#     name_file = Path.cwd() / 'Model' / 'token.json'\n#     SERVICE_ACCOUNT_FILE = name_file\n#     credentials = service_account.Credentials.from_service_account_file(\n#             SERVICE_ACCOUNT_FILE, scopes=SCOPES)\n#     client = gs.authorize(credentials)",
+        "detail": "Model.konekspreadsheet",
+        "documentation": {}
+    },
+    {
+        "label": "MainScreenModel",
+        "kind": 6,
+        "importPath": "Model.main_screen copy",
+        "description": "Model.main_screen copy",
+        "peekOfCode": "class MainScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.main_screen.MainScreen.MainScreenView` class.\n    \"\"\"\n    def konekspread(self):\n        pass\n    def get_token(self):\n        # self.Spreadsheet=Spreadkonek()\n        # self.result = self.Spreadsheet.get_token()",
+        "detail": "Model.main_screen copy",
+        "documentation": {}
+    },
+    {
+        "label": "MainScreenModel",
+        "kind": 6,
+        "importPath": "Model.main_screen",
+        "description": "Model.main_screen",
+        "peekOfCode": "class MainScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.main_screen.MainScreen.MainScreenView` class.\n    \"\"\"\n    def konekspread(self):\n        pass\n    def get_token(self):\n        self.Spreadsheet=Spreadkonek()\n        self.result = self.Spreadsheet.get_token()",
+        "detail": "Model.main_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainmenuScreenModel",
+        "kind": 6,
+        "importPath": "Model.mainmenu_screen",
+        "description": "Model.mainmenu_screen",
+        "peekOfCode": "class MainmenuScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.mainmenu_screen.MainmenuScreen.MainmenuScreenView` class.\n    \"\"\"",
+        "detail": "Model.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MaintainScreenModel",
+        "kind": 6,
+        "importPath": "Model.maintain_screen",
+        "description": "Model.maintain_screen",
+        "peekOfCode": "class MaintainScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.maintain_screen.MaintainScreen.MaintainScreenView` class.\n    \"\"\"",
+        "detail": "Model.maintain_screen",
+        "documentation": {}
+    },
+    {
+        "label": "PoskasirScreenModel",
+        "kind": 6,
+        "importPath": "Model.poskasir_screen",
+        "description": "Model.poskasir_screen",
+        "peekOfCode": "class PoskasirScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.poskasir_screen.PoskasirScreen.PoskasirScreenView` class.\n    \"\"\"",
+        "detail": "Model.poskasir_screen",
+        "documentation": {}
+    },
+    {
+        "label": "ProductlistScreenModel",
+        "kind": 6,
+        "importPath": "Model.productlist_screen",
+        "description": "Model.productlist_screen",
+        "peekOfCode": "class ProductlistScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.productlist_screen.ProductlistScreen.ProductlistScreenView` class.\n    \"\"\"",
+        "detail": "Model.productlist_screen",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterScreenModel",
+        "kind": 6,
+        "importPath": "Model.register_screen",
+        "description": "Model.register_screen",
+        "peekOfCode": "class RegisterScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.register_screen.RegisterScreen.RegisterScreenView` class.\n    \"\"\"\n    def insert_data(self,*args):\n        self.args=args[0]\n        self.username = self.args[0]\n        self.password = self.args[1]\n        self.fullname = self.args[2]",
+        "detail": "Model.register_screen",
+        "documentation": {}
+    },
+    {
+        "label": "UseScreenModel",
+        "kind": 6,
+        "importPath": "Model.use_screen",
+        "description": "Model.use_screen",
+        "peekOfCode": "class UseScreenModel(BaseScreenModel):\n    \"\"\"\n    Implements the logic of the\n    :class:`~View.use_screen.UseScreen.UseScreenView` class.\n    \"\"\"",
+        "detail": "Model.use_screen",
+        "documentation": {}
+    },
+    {
+        "label": "Observer",
+        "kind": 6,
+        "importPath": "Utility.observer",
+        "description": "Utility.observer",
+        "peekOfCode": "class Observer:\n    \"\"\"Abstract superclass for all observers.\"\"\"\n    def model_is_changed(self):\n        \"\"\"\n        The method that will be called on the observer when the model changes.\n        \"\"\"",
+        "detail": "Utility.observer",
+        "documentation": {}
+    },
+    {
+        "label": "AddproductScreenView",
+        "kind": 6,
+        "importPath": "View.AddproductScreen.addproduct_screen",
+        "description": "View.AddproductScreen.addproduct_screen",
+        "peekOfCode": "class AddproductScreenView(BaseScreenView):\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI\n        according to these changes.\n        \"\"\"\n    def masukan_barang(self,*args):\n        self.args=args\n        # self.args1=args[1]",
+        "detail": "View.AddproductScreen.addproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteproductScreenView",
+        "kind": 6,
+        "importPath": "View.DeleteproductScreen.deleteproduct_screen",
+        "description": "View.DeleteproductScreen.deleteproduct_screen",
+        "peekOfCode": "class DeleteproductScreenView(BaseScreenView):\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI\n        according to these changes.\n        \"\"\"",
+        "detail": "View.DeleteproductScreen.deleteproduct_screen",
+        "documentation": {}
+    },
+    {
+        "label": "InventoryScreenView",
+        "kind": 6,
+        "importPath": "View.InventoryScreen.inventory_screen",
+        "description": "View.InventoryScreen.inventory_screen",
+        "peekOfCode": "class InventoryScreenView(BaseScreenView):\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI\n        according to these changes.\n        \"\"\"\n    def main_menu(self):\n        self.manager_screens.current=\"mainmenu screen\"\n    def add_product_page(self):",
+        "detail": "View.InventoryScreen.inventory_screen",
+        "documentation": {}
+    },
+    {
+        "label": "CustomButtonIcon",
+        "kind": 6,
+        "importPath": "View.InventoryScreen.inventory_screen",
+        "description": "View.InventoryScreen.inventory_screen",
+        "peekOfCode": "class CustomButtonIcon(RectangularRippleBehavior,ButtonBehavior,MDBoxLayout):\n    pass",
+        "detail": "View.InventoryScreen.inventory_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainScreenView",
+        "kind": 6,
+        "importPath": "View.MainScreen.main_screen",
+        "description": "View.MainScreen.main_screen",
+        "peekOfCode": "class MainScreenView(BaseScreenView):\n    mistake=StringProperty('')\n    def __init__(self,*args,**kwargs):\n        super().__init__(*args,**kwargs)\n        self.theme_cls.primary_palette='Purple'\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI\n        according to these changes.",
+        "detail": "View.MainScreen.main_screen",
+        "documentation": {}
+    },
+    {
+        "label": "CustomIconButton",
+        "kind": 6,
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "peekOfCode": "class CustomIconButton(RectangularRippleBehavior,ButtonBehavior,MDBoxLayout):\n    source = StringProperty()\n    def push(self,*args):\n        print('hh')\n        pass\nclass PosKasir(MDScreen):\n    pass\n    # def go_to_inventory_screen(self):\n    #     print('hh')\n    #     self.navigationmain.manager_screens.current='inventory screen'",
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "PosKasir",
+        "kind": 6,
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "peekOfCode": "class PosKasir(MDScreen):\n    pass\n    # def go_to_inventory_screen(self):\n    #     print('hh')\n    #     self.navigationmain.manager_screens.current='inventory screen'\nclass MainmenuScreenView(BaseScreenView):\n    drawerlist=ObjectProperty()\n    def __init__(self,*args,**kwargs):\n        super().__init__(*args,**kwargs)\n        # self.posscreen = PosKasir()",
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainmenuScreenView",
+        "kind": 6,
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "peekOfCode": "class MainmenuScreenView(BaseScreenView):\n    drawerlist=ObjectProperty()\n    def __init__(self,*args,**kwargs):\n        super().__init__(*args,**kwargs)\n        # self.posscreen = PosKasir()\n        # self.model.add_observer(self.posscreen)\n        pass\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.",
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "ContentNavigationDrawer",
+        "kind": 6,
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "peekOfCode": "class ContentNavigationDrawer(MDBoxLayout):\n    navigationmain=ObjectProperty()\n    screenmanager = ObjectProperty()\n    nav_drawer = ObjectProperty()\n    screen1 = ObjectProperty()\n    navigationtoolbar = ObjectProperty()\n    def toggle_nav_drawer(self):\n        pass\nclass ItemDrawer(OneLineIconListItem):\n    icon = StringProperty()",
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "ItemDrawer",
+        "kind": 6,
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "peekOfCode": "class ItemDrawer(OneLineIconListItem):\n    icon = StringProperty()\n    pass\nclass DrawerList( MDList):\n    md_list = ObjectProperty()\n    def set_color_item(self, instance_item):\n        '''Called when tap on a menu item.'''\n        # Set the color of the icon and text for the menu item.\n        for item in self.children:\n            if item.text_color == self.theme_cls.primary_color:",
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "DrawerList",
+        "kind": 6,
+        "importPath": "View.MainmenuScreen.mainmenu_screen",
+        "description": "View.MainmenuScreen.mainmenu_screen",
+        "peekOfCode": "class DrawerList( MDList):\n    md_list = ObjectProperty()\n    def set_color_item(self, instance_item):\n        '''Called when tap on a menu item.'''\n        # Set the color of the icon and text for the menu item.\n        for item in self.children:\n            if item.text_color == self.theme_cls.primary_color:\n                item.text_color = self.theme_cls.text_color\n                break\n        instance_item.text_color = self.theme_cls.primary_color",
+        "detail": "View.MainmenuScreen.mainmenu_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MaintainScreenView",
+        "kind": 6,
+        "importPath": "View.MaintainScreen.maintain_screen",
+        "description": "View.MaintainScreen.maintain_screen",
+        "peekOfCode": "class MaintainScreenView(BaseScreenView):\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI\n        according to these changes.\n        \"\"\"\n    def exit(self):\n        # import pdb\n        # pdb.set_trace()",
+        "detail": "View.MaintainScreen.maintain_screen",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteScreenView",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.components.platforms.DesktopScreen.components.delete_comp",
+        "description": "View.PoskasirScreen.components.platforms.DesktopScreen.components.delete_comp",
+        "peekOfCode": "class DeleteScreenView(MDScreen):\n    label_text=ListProperty([])\n    def __init__(self,*args,**kwargs):\n        super().__init__(*args,**kwargs)\n        print(f'tulisannya {self.label_text}')\n        # disini tarik data yang diambil dari mdtabledata pos screen\n        self.tablecashregister = TableCashRegister()\n        self.data1 = self.tablecashregister.datatable[0]\n        self.data2 = self.tablecashregister.datatable[1]\n        self.source='assets/images/productimages/gambar_minyak_goreng.jpg'",
+        "detail": "View.PoskasirScreen.components.platforms.DesktopScreen.components.delete_comp",
+        "documentation": {}
+    },
+    {
+        "label": "DesktopScreenView",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "description": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "peekOfCode": "class DesktopScreenView(MDScreen):\n    def __init__(self,*args,**kwargs):\n        super().__init__(*args,**kwargs)\n    def delete(self):\n        print('try')\n        self.man_screen.current = \"delete screen\"\n        pass\nclass TableCashRegister(MDBoxLayout):\n    datatable = ListProperty([])\n    def __init__(self,*args,**kwargs):",
+        "detail": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "documentation": {}
+    },
+    {
+        "label": "TableCashRegister",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "description": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "peekOfCode": "class TableCashRegister(MDBoxLayout):\n    datatable = ListProperty([])\n    def __init__(self,*args,**kwargs):\n        super().__init__(*args,**kwargs)\n        self.orientation='horizontal'\n        self.table()\n        self.datatable = ['1','2']\n    def table(self):\n        self.font_size=10\n        self.data_tables = MDDataTable(",
+        "detail": "View.PoskasirScreen.components.platforms.DesktopScreen.desktop_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MobileScreenView",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "description": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "peekOfCode": "class MobileScreenView(MDScreen):\n    pass\nclass MainScreen(MDScreen):\n    def go_back(self):\n        self.mainmenu_screen = self.parent.parent.parent\n        self.mainmenu_screen.manager_screens.current='mainmenu screen'\n    def go_product_image(self,produk):\n        self.produk = produk\n        self.manager.current='product screen'\n        # import pdb ",
+        "detail": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MainScreen",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "description": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "peekOfCode": "class MainScreen(MDScreen):\n    def go_back(self):\n        self.mainmenu_screen = self.parent.parent.parent\n        self.mainmenu_screen.manager_screens.current='mainmenu screen'\n    def go_product_image(self,produk):\n        self.produk = produk\n        self.manager.current='product screen'\n        # import pdb \n        # pdb.set_trace()\n    def delete(self):",
+        "detail": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "documentation": {}
+    },
+    {
+        "label": "SecondScreen",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "description": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "peekOfCode": "class SecondScreen(MDScreen):\n    def go_back(self):\n        self.manager.current='pos screen'",
+        "detail": "View.PoskasirScreen.components.platforms.MobileScreen.mobile_screen",
+        "documentation": {}
+    },
+    {
+        "label": "TabletScreenView",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.components.platforms.TabletScreen.tablet_screen",
+        "description": "View.PoskasirScreen.components.platforms.TabletScreen.tablet_screen",
+        "peekOfCode": "class TabletScreenView(MDScreen):\n    pass",
+        "detail": "View.PoskasirScreen.components.platforms.TabletScreen.tablet_screen",
+        "documentation": {}
+    },
+    {
+        "label": "PoskasirScreenView",
+        "kind": 6,
+        "importPath": "View.PoskasirScreen.poskasir_screen",
+        "description": "View.PoskasirScreen.poskasir_screen",
+        "peekOfCode": "class PoskasirScreenView(MDResponsiveLayout,BaseScreenView):\n    def __init__(self, **kw):\n        super().__init__(**kw)\n        self.mobile_view = MobileScreenView()\n        self.tablet_view = TabletScreenView()\n        self.desktop_view = DesktopScreenView()\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI",
+        "detail": "View.PoskasirScreen.poskasir_screen",
+        "documentation": {}
+    },
+    {
+        "label": "ProductlistScreenView",
+        "kind": 6,
+        "importPath": "View.ProductlistScreen.productlist_screen",
+        "description": "View.ProductlistScreen.productlist_screen",
+        "peekOfCode": "class ProductlistScreenView(BaseScreenView):\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI\n        according to these changes.\n        \"\"\"\n    def __init__(self,*args,**kwargs):\n        super().__init__(*args,**kwargs)\n        # import pdb",
+        "detail": "View.ProductlistScreen.productlist_screen",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterScreenView",
+        "kind": 6,
+        "importPath": "View.RegisterScreen.register_screen",
+        "description": "View.RegisterScreen.register_screen",
+        "peekOfCode": "class RegisterScreenView(BaseScreenView):\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI\n        according to these changes.\n        \"\"\"\n    def kembali(self):\n        self.manager_screens.current='main screen'\n    def registration_proceed(self,*args):",
+        "detail": "View.RegisterScreen.register_screen",
+        "documentation": {}
+    },
+    {
+        "label": "DesktopScreenView",
+        "kind": 6,
+        "importPath": "View.UseScreen.components.platforms.DesktopScreen.desktop_screen",
+        "description": "View.UseScreen.components.platforms.DesktopScreen.desktop_screen",
+        "peekOfCode": "class DesktopScreenView(MDScreen):\n    pass",
+        "detail": "View.UseScreen.components.platforms.DesktopScreen.desktop_screen",
+        "documentation": {}
+    },
+    {
+        "label": "MobileScreenView",
+        "kind": 6,
+        "importPath": "View.UseScreen.components.platforms.MobileScreen.mobile_screen",
+        "description": "View.UseScreen.components.platforms.MobileScreen.mobile_screen",
+        "peekOfCode": "class MobileScreenView(MDScreen):\n    pass",
+        "detail": "View.UseScreen.components.platforms.MobileScreen.mobile_screen",
+        "documentation": {}
+    },
+    {
+        "label": "TabletScreenView",
+        "kind": 6,
+        "importPath": "View.UseScreen.components.platforms.TabletScreen.tablet_screen",
+        "description": "View.UseScreen.components.platforms.TabletScreen.tablet_screen",
+        "peekOfCode": "class TabletScreenView(MDScreen):\n    pass",
+        "detail": "View.UseScreen.components.platforms.TabletScreen.tablet_screen",
+        "documentation": {}
+    },
+    {
+        "label": "UseScreenView",
+        "kind": 6,
+        "importPath": "View.UseScreen.use_screen",
+        "description": "View.UseScreen.use_screen",
+        "peekOfCode": "class UseScreenView(MDResponsiveLayout, BaseScreenView):\n    def __init__(self, **kw):\n        super().__init__(**kw)\n        self.mobile_view = MobileScreenView()\n        self.tablet_view = TabletScreenView()\n        self.desktop_view = DesktopScreenView()\n    def model_is_changed(self) -> None:\n        \"\"\"\n        Called whenever any change has occurred in the data model.\n        The view in this method tracks these changes and updates the UI",
+        "detail": "View.UseScreen.use_screen",
+        "documentation": {}
+    },
+    {
+        "label": "BaseScreenView",
+        "kind": 6,
+        "importPath": "View.base_screen",
+        "description": "View.base_screen",
+        "peekOfCode": "class BaseScreenView(ThemableBehavior, MDScreen, Observer):\n    \"\"\"\n    A base class that implements a visual representation of the model data.\n    The view class must be inherited from this class.\n    \"\"\"\n    controller = ObjectProperty()\n    \"\"\"\n    Controller object - :class:`~Controller.controller_screen.ClassScreenControler`.\n    :attr:`controller` is an :class:`~kivy.properties.ObjectProperty`\n    and defaults to `None`.",
+        "detail": "View.base_screen",
+        "documentation": {}
+    },
+    {
+        "label": "screens",
+        "kind": 5,
+        "importPath": "View.screens",
+        "description": "View.screens",
+        "peekOfCode": "screens = {\n    'poskasir screen': {\n        'model': PoskasirScreenModel,\n        'controller': PoskasirScreenController,\n    },\n    'mainmenu screen': {\n        'model': MainmenuScreenModel,\n        'controller': MainmenuScreenController,\n    },\n    'addproduct screen': {",
+        "detail": "View.screens",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.9/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.9/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.9/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.9/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.9/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.bin.activate_this",
+        "description": "venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2html",
+        "description": "venv.bin.rst2html",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html', description=description)",
+        "detail": "venv.bin.rst2html",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2html4",
+        "description": "venv.bin.rst2html4",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html4', description=description)",
+        "detail": "venv.bin.rst2html4",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2html5",
+        "description": "venv.bin.rst2html5",
+        "peekOfCode": "description = (u'Generates HTML5 documents from standalone '\n               u'reStructuredText sources.\\n'\n               + default_description)\npublish_cmdline(writer_name='html5', description=description)",
+        "detail": "venv.bin.rst2html5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2latex",
+        "description": "venv.bin.rst2latex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<http://docutils.sourceforge.net/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='latex', description=description)",
+        "detail": "venv.bin.rst2latex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2man",
+        "description": "venv.bin.rst2man",
+        "peekOfCode": "description = (\"Generates plain unix manual documents.  \" + default_description)\npublish_cmdline(writer=manpage.Writer(), description=description)",
+        "detail": "venv.bin.rst2man",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2odt",
+        "description": "venv.bin.rst2odt",
+        "peekOfCode": "description = ('Generates OpenDocument/OpenOffice/ODF documents from '\n               'standalone reStructuredText sources.  ' + default_description)\nwriter = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": "venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": "venv.bin.rst2odt",
+        "description": "venv.bin.rst2odt",
+        "peekOfCode": "writer = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": "venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "reader",
+        "kind": 5,
+        "importPath": "venv.bin.rst2odt",
+        "description": "venv.bin.rst2odt",
+        "peekOfCode": "reader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": "venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "venv.bin.rst2odt",
+        "description": "venv.bin.rst2odt",
+        "peekOfCode": "output = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": "venv.bin.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "prepstyle",
+        "kind": 2,
+        "importPath": "venv.bin.rst2odt_prepstyles",
+        "description": "venv.bin.rst2odt_prepstyles",
+        "peekOfCode": "def prepstyle(filename):\n    zin = zipfile.ZipFile(filename)\n    styles = zin.read(\"styles.xml\")\n    root = etree.fromstring(styles)\n    for el in root.xpath(\"//style:page-layout-properties\",\n                         namespaces=NAMESPACES):\n        for attr in el.attrib:\n            if attr.startswith(\"{%s}\" % NAMESPACES[\"fo\"]):\n                del el.attrib[attr]\n    tempname = mkstemp()",
+        "detail": "venv.bin.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.bin.rst2odt_prepstyles",
+        "description": "venv.bin.rst2odt_prepstyles",
+        "peekOfCode": "def main():\n    args = sys.argv[1:]\n    if len(args) != 1:\n        print(__doc__, file=sys.stderr)\n        print(\"Usage: %s STYLE_FILE.odt\\n\" % sys.argv[0], file=sys.stderr)\n        sys.exit(1)\n    filename = args[0]\n    prepstyle(filename)\nif __name__ == '__main__':\n    main()",
+        "detail": "venv.bin.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "NAMESPACES",
+        "kind": 5,
+        "importPath": "venv.bin.rst2odt_prepstyles",
+        "description": "venv.bin.rst2odt_prepstyles",
+        "peekOfCode": "NAMESPACES = {\n    \"style\": \"urn:oasis:names:tc:opendocument:xmlns:style:1.0\",\n    \"fo\": \"urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0\"\n}\ndef prepstyle(filename):\n    zin = zipfile.ZipFile(filename)\n    styles = zin.read(\"styles.xml\")\n    root = etree.fromstring(styles)\n    for el in root.xpath(\"//style:page-layout-properties\",\n                         namespaces=NAMESPACES):",
+        "detail": "venv.bin.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2pseudoxml",
+        "description": "venv.bin.rst2pseudoxml",
+        "peekOfCode": "description = ('Generates pseudo-XML from standalone reStructuredText '\n               'sources (for testing purposes).  ' + default_description)\npublish_cmdline(description=description)",
+        "detail": "venv.bin.rst2pseudoxml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2s5",
+        "description": "venv.bin.rst2s5",
+        "peekOfCode": "description = ('Generates S5 (X)HTML slideshow documents from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='s5', description=description)",
+        "detail": "venv.bin.rst2s5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2xetex",
+        "description": "venv.bin.rst2xetex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources for compilation with the Unicode-aware TeX variants '\n               'XeLaTeX or LuaLaTeX. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<http://docutils.sourceforge.net/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='xetex', description=description)",
+        "detail": "venv.bin.rst2xetex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rst2xml",
+        "description": "venv.bin.rst2xml",
+        "peekOfCode": "description = ('Generates Docutils-native XML from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='xml', description=description)",
+        "detail": "venv.bin.rst2xml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "venv.bin.rstpep2html",
+        "description": "venv.bin.rstpep2html",
+        "peekOfCode": "description = ('Generates (X)HTML from reStructuredText-format PEP files.  '\n               + default_description)\npublish_cmdline(reader_name='pep', writer_name='pep_html',\n                description=description)",
+        "detail": "venv.bin.rstpep2html",
+        "documentation": {}
+    },
+    {
+        "label": "Tab",
+        "kind": 6,
+        "importPath": "color",
+        "description": "color",
+        "peekOfCode": "class Tab(MDBoxLayout, MDTabsBase):\n    pass\nclass ItemColor(MDBoxLayout):\n    text = StringProperty()\n    color = ListProperty()\nclass Palette(MDApp):\n    title = \"Colors definitions\"\n    def build(self):\n        Builder.load_string(demo)\n        self.screen = Factory.Root()",
+        "detail": "color",
+        "documentation": {}
+    },
+    {
+        "label": "ItemColor",
+        "kind": 6,
+        "importPath": "color",
+        "description": "color",
+        "peekOfCode": "class ItemColor(MDBoxLayout):\n    text = StringProperty()\n    color = ListProperty()\nclass Palette(MDApp):\n    title = \"Colors definitions\"\n    def build(self):\n        Builder.load_string(demo)\n        self.screen = Factory.Root()\n        for name_tab in colors.keys():\n            tab = Tab(text=name_tab)",
+        "detail": "color",
+        "documentation": {}
+    },
+    {
+        "label": "Palette",
+        "kind": 6,
+        "importPath": "color",
+        "description": "color",
+        "peekOfCode": "class Palette(MDApp):\n    title = \"Colors definitions\"\n    def build(self):\n        Builder.load_string(demo)\n        self.screen = Factory.Root()\n        for name_tab in colors.keys():\n            tab = Tab(text=name_tab)\n            self.screen.ids.android_tabs.add_widget(tab)\n        return self.screen\n    def on_tab_switch(",
+        "detail": "color",
+        "documentation": {}
+    },
+    {
+        "label": "demo",
+        "kind": 5,
+        "importPath": "color",
+        "description": "color",
+        "peekOfCode": "demo = '''\n<Root@MDBoxLayout>\n    orientation: 'vertical'\n    MDTopAppBar:\n        title: app.title\n    MDTabs:\n        id: android_tabs\n        on_tab_switch: app.on_tab_switch(*args)\n        size_hint_y: None\n        height: \"48dp\"",
+        "detail": "color",
+        "documentation": {}
+    },
+    {
+        "label": "Pos",
+        "kind": 6,
+        "importPath": "hotreload",
+        "description": "hotreload",
+        "peekOfCode": "class Pos(MDApp):\n    KV_DIRS = [os.path.join(os.getcwd(), \"View\")]\n    def build_app(self) -> MDScreenManager:\n        \"\"\"\n        In this method, you don't need to change anything other than the\n        application theme.\n        \"\"\"\n        import View.screens\n        self.manager_screens = MDScreenManager()\n        Window.bind(on_key_down=self.on_keyboard_down)",
+        "detail": "hotreload",
+        "documentation": {}
+    },
+    {
+        "label": "resolution",
+        "kind": 5,
+        "importPath": "hotreload",
+        "description": "hotreload",
+        "peekOfCode": "resolution = ImageGrab.grab().size\n# Change the values of the application window size as you need.\nConfig.set(\"graphics\", \"height\", resolution[1])\nConfig.set(\"graphics\", \"width\", \"400\")\nfrom kivy.core.window import Window\n# Place the application window on the right side of the computer screen.\nWindow.top = 0\nWindow.left = resolution[0] - Window.width\n# from kivymd.app import MDApp\nfrom kivymd.tools.hotreload.app import MDApp",
+        "detail": "hotreload",
+        "documentation": {}
+    },
+    {
+        "label": "Window.top",
+        "kind": 5,
+        "importPath": "hotreload",
+        "description": "hotreload",
+        "peekOfCode": "Window.top = 0\nWindow.left = resolution[0] - Window.width\n# from kivymd.app import MDApp\nfrom kivymd.tools.hotreload.app import MDApp\nfrom kivymd.uix.screenmanager import MDScreenManager\nclass Pos(MDApp):\n    KV_DIRS = [os.path.join(os.getcwd(), \"View\")]\n    def build_app(self) -> MDScreenManager:\n        \"\"\"\n        In this method, you don't need to change anything other than the",
+        "detail": "hotreload",
+        "documentation": {}
+    },
+    {
+        "label": "Window.left",
+        "kind": 5,
+        "importPath": "hotreload",
+        "description": "hotreload",
+        "peekOfCode": "Window.left = resolution[0] - Window.width\n# from kivymd.app import MDApp\nfrom kivymd.tools.hotreload.app import MDApp\nfrom kivymd.uix.screenmanager import MDScreenManager\nclass Pos(MDApp):\n    KV_DIRS = [os.path.join(os.getcwd(), \"View\")]\n    def build_app(self) -> MDScreenManager:\n        \"\"\"\n        In this method, you don't need to change anything other than the\n        application theme.",
+        "detail": "hotreload",
+        "documentation": {}
+    },
+    {
+        "label": "CustomOneLineIconListItem",
+        "kind": 6,
+        "importPath": "icon",
+        "description": "icon",
+        "peekOfCode": "class CustomOneLineIconListItem(OneLineIconListItem):\n    icon = StringProperty()\nclass PreviousMDIcons(Screen):\n    def set_list_md_icons(self, text=\"\", search=False):\n        '''Builds a list of icons for the screen MDIcons.'''\n        def add_icon_item(name_icon):\n            self.ids.rv.data.append(\n                {\n                    \"viewclass\": \"CustomOneLineIconListItem\",\n                    \"icon\": name_icon,",
+        "detail": "icon",
+        "documentation": {}
+    },
+    {
+        "label": "PreviousMDIcons",
+        "kind": 6,
+        "importPath": "icon",
+        "description": "icon",
+        "peekOfCode": "class PreviousMDIcons(Screen):\n    def set_list_md_icons(self, text=\"\", search=False):\n        '''Builds a list of icons for the screen MDIcons.'''\n        def add_icon_item(name_icon):\n            self.ids.rv.data.append(\n                {\n                    \"viewclass\": \"CustomOneLineIconListItem\",\n                    \"icon\": name_icon,\n                    \"text\": name_icon,\n                    \"callback\": lambda x: x,",
+        "detail": "icon",
+        "documentation": {}
+    },
+    {
+        "label": "MainApp",
+        "kind": 6,
+        "importPath": "icon",
+        "description": "icon",
+        "peekOfCode": "class MainApp(MDApp):\n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n        self.screen = PreviousMDIcons()\n    def build(self):\n        return self.screen\n    def on_start(self):\n        self.screen.set_list_md_icons()\nMainApp().run()",
+        "detail": "icon",
+        "documentation": {}
+    },
+    {
+        "label": "CustomOneLineIconListItem",
+        "kind": 6,
+        "importPath": "id",
+        "description": "id",
+        "peekOfCode": "class CustomOneLineIconListItem(OneLineIconListItem):\n    icon = StringProperty()\nclass PreviousMDIcons(Screen):\n    def set_list_md_icons(self, text=\"\", search=False):\n        '''Builds a list of icons for the screen MDIcons.'''\n        def add_icon_item(name_icon):\n            self.ids.rv.data.append(\n                {\n                    \"viewclass\": \"CustomOneLineIconListItem\",\n                    \"icon\": name_icon,",
+        "detail": "id",
+        "documentation": {}
+    },
+    {
+        "label": "PreviousMDIcons",
+        "kind": 6,
+        "importPath": "id",
+        "description": "id",
+        "peekOfCode": "class PreviousMDIcons(Screen):\n    def set_list_md_icons(self, text=\"\", search=False):\n        '''Builds a list of icons for the screen MDIcons.'''\n        def add_icon_item(name_icon):\n            self.ids.rv.data.append(\n                {\n                    \"viewclass\": \"CustomOneLineIconListItem\",\n                    \"icon\": name_icon,\n                    \"text\": name_icon,\n                    \"callback\": lambda x: x,",
+        "detail": "id",
+        "documentation": {}
+    },
+    {
+        "label": "MainApp",
+        "kind": 6,
+        "importPath": "id",
+        "description": "id",
+        "peekOfCode": "class MainApp(MDApp):\n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n        self.screen = PreviousMDIcons()\n    def build(self):\n        return self.screen\n    def on_start(self):\n        self.screen.set_list_md_icons()\nMainApp().run()",
+        "detail": "id",
+        "documentation": {}
+    },
+    {
+        "label": "Pos",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class Pos(MDApp):\n    def __init__(self, **kwargs):\n        super().__init__(**kwargs)\n        self.load_all_kv_files(self.directory)\n        # This is the screen manager that will contain all the screens of your\n        # application.\n        self.manager_screens = MDScreenManager()\n    def build(self) -> MDScreenManager:\n        self.generate_application_screens()\n        return self.manager_screens",
+        "detail": "main",
+        "documentation": {}
+    }
+]
